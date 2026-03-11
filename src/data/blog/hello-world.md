@@ -1,6 +1,6 @@
 ---
 title: "블로그를 시작합니다"
-pubDate: 2026-03-11
+pubDatetime: 2026-03-11T00:00:00Z
 description: "Astro와 astro-paper 테마로 개발 블로그를 만들었습니다."
 tags: ["meta"]
 ---
