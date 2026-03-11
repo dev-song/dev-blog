@@ -11,6 +11,7 @@ import IconRss from "@/assets/icons/IconRss.svg";
 import IconArrowRight from "@/assets/icons/IconArrowRight.svg";
 import { SITE } from "@/config";
 import { SOCIALS } from "@/constants";
+import { getBasePath } from "@/utils/getBasePath";
 
 const posts = await getCollection("blog");
 
@@ -28,7 +29,7 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
       </h1>
       <a
         target="_blank"
-        href="/rss.xml"
+        href={getBasePath("/rss.xml")}
         class="inline-block"
         aria-label="rss feed"
         title="RSS Feed"
@@ -87,7 +88,7 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
     }
 
     <div class="my-8 text-center">
-      <LinkButton href="/posts/">
+      <LinkButton href={getBasePath("/posts/")}>
         All Posts
         <IconArrowRight class="inline-block rtl:-rotate-180" />
       </LinkButton>
