@@ -1,5 +1,5 @@
 ---
-title: "19 JavaScript (Front End) ... Part 1"
+title: "JavaScript (Front End) ... Part 1"
 pubDatetime: 2020-04-02T13:04:49+09:00
 description: "티스토리 아카이브"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "50 Spring Core (Back End) ... Part 3"
+title: "Spring Core (Back End) ... Part 3"
 pubDatetime: 2020-04-15T16:18:05+09:00
 description: "티스토리 아카이브"
 ---

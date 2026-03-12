@@ -1,5 +1,5 @@
 ---
-title: "33 Web API (Back End) ... Part 1"
+title: "Web API (Back End) ... Part 1"
 pubDatetime: 2020-04-07T21:20:54+09:00
 description: "티스토리 아카이브"
 ---

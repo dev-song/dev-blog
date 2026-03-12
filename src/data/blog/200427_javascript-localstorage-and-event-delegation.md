@@ -1,5 +1,5 @@
 ---
-title: "67 JavaScript localStorage와 이벤트 위임"
+title: "JavaScript localStorage와 이벤트 위임"
 pubDatetime: 2020-04-27T16:30:19+09:00
 description: "티스토리 아카이브"
 ---

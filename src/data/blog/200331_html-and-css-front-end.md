@@ -1,5 +1,5 @@
 ---
-title: "13 HTML과 CSS (Front End)"
+title: "HTML과 CSS (Front End)"
 pubDatetime: 2020-03-31T00:55:21+09:00
 description: "티스토리 아카이브"
 ---

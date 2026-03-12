@@ -1,5 +1,5 @@
 ---
-title: "99 [JS] bind 메서드를 활용한 this 제어"
+title: "[JS] bind 메서드를 활용한 this 제어"
 pubDatetime: 2020-06-18T18:18:01+09:00
 description: "티스토리 아카이브"
 ---

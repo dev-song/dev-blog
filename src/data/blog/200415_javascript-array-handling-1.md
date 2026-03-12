@@ -1,5 +1,5 @@
 ---
-title: "49 JavaScript 배열 다루기 1"
+title: "JavaScript 배열 다루기 1"
 pubDatetime: 2020-04-15T15:39:05+09:00
 description: "티스토리 아카이브"
 ---

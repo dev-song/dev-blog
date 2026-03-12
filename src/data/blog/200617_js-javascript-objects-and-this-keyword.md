@@ -1,5 +1,5 @@
 ---
-title: "98 [JS] JavaScript 객체와 this 키워드"
+title: "[JS] JavaScript 객체와 this 키워드"
 pubDatetime: 2020-06-17T21:44:55+09:00
 description: "티스토리 아카이브"
 ---

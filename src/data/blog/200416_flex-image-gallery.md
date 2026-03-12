@@ -1,5 +1,5 @@
 ---
-title: "52 Flex 이미지 갤러리"
+title: "Flex 이미지 갤러리"
 pubDatetime: 2020-04-16T23:40:44+09:00
 description: "티스토리 아카이브"
 ---

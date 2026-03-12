@@ -1,5 +1,5 @@
 ---
-title: "31 SQL (Back End) ... Part 2"
+title: "SQL (Back End) ... Part 2"
 pubDatetime: 2020-04-06T01:19:34+09:00
 description: "티스토리 아카이브"
 ---

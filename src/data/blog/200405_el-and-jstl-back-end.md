@@ -1,5 +1,5 @@
 ---
-title: "29 EL과 JSTL (Back End)"
+title: "EL과 JSTL (Back End)"
 pubDatetime: 2020-04-05T19:31:20+09:00
 description: "티스토리 아카이브"
 ---

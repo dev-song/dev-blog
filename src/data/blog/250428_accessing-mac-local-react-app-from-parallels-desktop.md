@@ -1,5 +1,5 @@
 ---
-title: "112 Parallels Desktop에서 Mac의 로컬 React 앱에 접근하기"
+title: "Parallels Desktop에서 Mac의 로컬 React 앱에 접근하기"
 pubDatetime: 2025-04-28T16:08:20+09:00
 description: "티스토리 아카이브"
 ---

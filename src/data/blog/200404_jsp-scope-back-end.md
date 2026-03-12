@@ -1,5 +1,5 @@
 ---
-title: "28 JSP Scope (Back End)"
+title: "JSP Scope (Back End)"
 pubDatetime: 2020-04-04T03:05:41+09:00
 description: "티스토리 아카이브"
 ---

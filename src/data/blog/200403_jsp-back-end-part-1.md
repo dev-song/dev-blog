@@ -1,5 +1,5 @@
 ---
-title: "24 JSP (Back End) ... Part 1"
+title: "JSP (Back End) ... Part 1"
 pubDatetime: 2020-04-03T13:50:56+09:00
 description: "티스토리 아카이브"
 ---

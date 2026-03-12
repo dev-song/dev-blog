@@ -1,5 +1,5 @@
 ---
-title: "40 AJAX (Front End)"
+title: "AJAX (Front End)"
 pubDatetime: 2020-04-12T17:22:41+09:00
 description: "티스토리 아카이브"
 ---

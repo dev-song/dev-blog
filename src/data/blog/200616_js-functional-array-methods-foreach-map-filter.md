@@ -1,5 +1,5 @@
 ---
-title: "97 [JS] 배열의 함수형 메소드, forEach, map, filter"
+title: "[JS] 배열의 함수형 메소드, forEach, map, filter"
 pubDatetime: 2020-06-16T23:03:26+09:00
 description: "티스토리 아카이브"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "37 JavaScript   Array & Object (Front End)"
+title: "JavaScript - Array & Object (Front End)"
 pubDatetime: 2020-04-10T20:39:34+09:00
 description: "티스토리 아카이브"
 ---

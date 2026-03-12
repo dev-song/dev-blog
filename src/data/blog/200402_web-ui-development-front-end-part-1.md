@@ -1,5 +1,5 @@
 ---
-title: "22 Web UI 개발 (Front End) ... Part 1"
+title: "Web UI 개발 (Front End) ... Part 1"
 pubDatetime: 2020-04-02T23:39:14+09:00
 description: "티스토리 아카이브"
 ---

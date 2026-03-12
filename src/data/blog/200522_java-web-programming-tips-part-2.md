@@ -1,5 +1,5 @@
 ---
-title: "94 Java Web Programming Tips ... Part 2"
+title: "Java Web Programming Tips ... Part 2"
 pubDatetime: 2020-05-22T15:37:02+09:00
 description: "티스토리 아카이브"
 ---

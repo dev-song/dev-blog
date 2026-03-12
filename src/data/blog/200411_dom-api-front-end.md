@@ -1,5 +1,5 @@
 ---
-title: "39 DOM API (Front End)"
+title: "DOM API (Front End)"
 pubDatetime: 2020-04-11T20:58:22+09:00
 description: "티스토리 아카이브"
 ---

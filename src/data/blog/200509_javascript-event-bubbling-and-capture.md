@@ -1,5 +1,5 @@
 ---
-title: "86 JavaScript 이벤트 버블링과 이벤트 캡쳐"
+title: "JavaScript 이벤트 버블링과 이벤트 캡쳐"
 pubDatetime: 2020-05-09T15:30:24+09:00
 description: "티스토리 아카이브"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "63 Spring MVC (Back End) ... Part 2"
+title: "Spring MVC (Back End) ... Part 2"
 pubDatetime: 2020-04-22T19:59:12+09:00
 description: "티스토리 아카이브"
 ---

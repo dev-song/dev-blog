@@ -1,5 +1,5 @@
 ---
-title: "79 Layered Architecture (Back End) ... 실습 (3)"
+title: "Layered Architecture (Back End) ... 실습 (3)"
 pubDatetime: 2020-05-05T17:45:40+09:00
 description: "티스토리 아카이브"
 ---

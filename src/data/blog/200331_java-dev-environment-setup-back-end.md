@@ -1,5 +1,5 @@
 ---
-title: "15 Java 개발환경 설정 (Back End)"
+title: "Java 개발환경 설정 (Back End)"
 pubDatetime: 2020-03-31T11:06:12+09:00
 description: "티스토리 아카이브"
 ---

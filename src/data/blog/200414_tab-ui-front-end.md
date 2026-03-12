@@ -1,5 +1,5 @@
 ---
-title: "45 Tab UI (Front End)"
+title: "Tab UI (Front End)"
 pubDatetime: 2020-04-14T12:52:19+09:00
 description: "티스토리 아카이브"
 ---

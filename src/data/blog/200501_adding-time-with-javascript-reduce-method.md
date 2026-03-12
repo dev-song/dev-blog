@@ -1,5 +1,5 @@
 ---
-title: "71 JavaScript .reduce( ) 메서드로 시간 더하기"
+title: "JavaScript .reduce( ) 메서드로 시간 더하기"
 pubDatetime: 2020-05-01T15:14:54+09:00
 description: "티스토리 아카이브"
 ---

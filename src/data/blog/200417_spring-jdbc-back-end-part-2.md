@@ -1,5 +1,5 @@
 ---
-title: "54 Spring JDBC (Back End) ... Part 2"
+title: "Spring JDBC (Back End) ... Part 2"
 pubDatetime: 2020-04-17T20:23:07+09:00
 description: "티스토리 아카이브"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "18 Java Servlet (Back End) ... Part 2"
+title: "Java Servlet (Back End) ... Part 2"
 pubDatetime: 2020-04-01T23:56:48+09:00
 description: "티스토리 아카이브"
 ---

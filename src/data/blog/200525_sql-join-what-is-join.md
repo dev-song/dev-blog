@@ -1,5 +1,5 @@
 ---
-title: "95 SQL Join 알아보기 ... Join이란?"
+title: "SQL Join 알아보기 ... Join이란?"
 pubDatetime: 2020-05-25T15:13:25+09:00
 description: "티스토리 아카이브"
 ---

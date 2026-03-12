@@ -1,5 +1,5 @@
 ---
-title: "66 JavaScript 데이터 참조 vs 복사"
+title: "JavaScript 데이터 참조 vs 복사"
 pubDatetime: 2020-04-26T23:04:55+09:00
 description: "티스토리 아카이브"
 ---

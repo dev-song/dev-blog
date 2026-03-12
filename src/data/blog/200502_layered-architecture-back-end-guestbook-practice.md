@@ -1,5 +1,5 @@
 ---
-title: "73"
+title: "Layered Architecture (Back End) ... 실습 전 준비"
 pubDatetime: 2020-05-02T18:29:13+09:00
 description: "티스토리 아카이브"
 ---

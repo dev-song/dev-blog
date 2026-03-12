@@ -1,5 +1,5 @@
 ---
-title: "38 Lottery Info Check   Data Crawler"
+title: "Lottery Info Check - Data Crawler"
 pubDatetime: 2020-04-11T16:41:48+09:00
 description: "티스토리 아카이브"
 ---
@@ -8,7 +8,7 @@ description: "티스토리 아카이브"
 
 진행기간: 2020년 4월 10일, 11일
 
-* * *
+---
 
 Node.js로 웹 크롤링하기
 

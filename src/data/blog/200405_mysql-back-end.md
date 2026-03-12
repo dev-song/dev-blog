@@ -1,5 +1,5 @@
 ---
-title: "30 MySQL (Back End)"
+title: "MySQL (Back End)"
 pubDatetime: 2020-04-05T23:58:14+09:00
 description: "티스토리 아카이브"
 ---

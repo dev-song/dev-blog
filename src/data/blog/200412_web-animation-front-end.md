@@ -1,5 +1,5 @@
 ---
-title: "42 Web Animation (Front End)"
+title: "Web Animation (Front End)"
 pubDatetime: 2020-04-12T18:16:54+09:00
 description: "티스토리 아카이브"
 ---

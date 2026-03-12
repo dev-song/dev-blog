@@ -1,5 +1,5 @@
 ---
-title: "17 Maven (Back End)"
+title: "Maven (Back End)"
 pubDatetime: 2020-04-06T11:27:39+09:00
 description: "티스토리 아카이브"
 ---

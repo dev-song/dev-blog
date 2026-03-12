@@ -1,5 +1,5 @@
 ---
-title: "44 Web UI 심화 (Front End)"
+title: "Web UI 심화 (Front End)"
 pubDatetime: 2020-04-13T20:26:04+09:00
 description: "티스토리 아카이브"
 ---

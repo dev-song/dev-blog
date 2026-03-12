@@ -1,5 +1,5 @@
 ---
-title: "83 RestController (Back End) ... 실습"
+title: "RestController (Back End) ... 실습"
 pubDatetime: 2020-05-06T23:38:10+09:00
 description: "티스토리 아카이브"
 ---

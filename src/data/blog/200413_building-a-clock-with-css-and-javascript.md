@@ -1,5 +1,5 @@
 ---
-title: "43 CSS와 JavaScript로 시계 만들기"
+title: "CSS와 JavaScript로 시계 만들기"
 pubDatetime: 2020-04-13T13:23:51+09:00
 description: "티스토리 아카이브"
 ---

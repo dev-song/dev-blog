@@ -1,5 +1,5 @@
 ---
-title: "103"
+title: "[JS] handlebars 라이브러리를 활용한 템플릿 작업 ... Part 1"
 pubDatetime: 2020-07-08T15:37:58+09:00
 description: "티스토리 아카이브"
 ---
