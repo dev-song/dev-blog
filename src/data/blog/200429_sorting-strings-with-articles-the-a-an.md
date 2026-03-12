@@ -29,7 +29,7 @@ Array.prototype.sort( ) 메서드의 특징
 *   가장 기본적 방식인 '문자열 == 값 1 || 문자열 == 값 2 || ...'는 비교대상이 많아질수록 가독성이 떨어짐
 *   비교대상인 값을 배열로 만들어 비교함으로써 간편하게 여러 값과 비교할 수 있음
 *   예시 코드
-    *           
+    *   ![](./images/68.png)
 *   참고자료: [Better Ways of Comparing a JavaScript String to Multiple Values](https://www.tjvantoll.com/2013/03/14/better-ways-of-comparing-a-javascript-string-to-multiple-values/)
 
 * * *

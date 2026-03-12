@@ -6,7 +6,7 @@ description: "티스토리 아카이브"
 
 최근 비트코인 채굴이 환경에 파괴적이라는 일반적인 인식과 반대로 오히려 친환경 발전, 그 중에서도 태양광/풍력 발전의 수익성을 높일 수 있다는 보고서를 접하고 흥미가 생겨 조사했어요. 최근 구독하기 시작한 [뉴닉 NEWNEEK](https://newneek.co/)의 스타일로, 관련 내용을 정리해봤습니다. :)
 
-* * *
+---
 
 ## 어떤 보고서인데 그래?
 
@@ -36,8 +36,7 @@ description: "티스토리 아카이브"
 친환경 발전 중 저렴한 편에 속하는 수력 발전과 지열 발전 수준에 도달한 것은 물론이고,  
 화석 연료 발전 중 제일 저렴한 석탄 발전의 수준도 3 ~ 5년 내로 도달할 것으로 예측되고 있죠.
 
-
-2021 신재생자원 에너지 보고서 - 미 에너지 정보국
+![2021 신재생자원 에너지 보고서 - 미 에너지 정보국](./images/110.png)
 
 #### 환경에도 좋은 태양광/풍력 발전이 저렴하기까지? 완전 좋은데?
 
@@ -45,8 +44,7 @@ description: "티스토리 아카이브"
 태양광 발전은 해가 떠 있는 동안에만, 풍력 발전은 바람이 불 때만 전기를 생산하니까요.  
 더군다나 전기를 제일 많이 쓰는 시점은 발전량이 줄어들거나 거의 없는 저녁 시간대이기 때문에, 발전량 최대 시점과 소비량 최대 시점 사이에 간극이 생겨요.
 
-
-일중 시간대별 전력 요구치
+![일중 시간대별 전력 요구치](./images/110-1.png)
 
 필요한 것보다 더 많이 생산된 전기를 의미 없이 사라지지 않게 하려면 어딘가에 저장해놓거나 더 많은 지역과 연결해주어야 하는데, 두 방법 모두 상당한 비용이 들기 때문에 발전소 사업자들은 항상 이 문제로 힘들어했어요.  
 이 지점에서, 보고서는 비트코인을 통해 문제를 해결할 수 있다고 주장해요.
@@ -68,11 +66,9 @@ description: "티스토리 아카이브"
 전반적으로 희망적인 내용이지만, 보고서에도 한계점은 있어요.  
 비트코인을 포함한 암호화폐를 채굴하는 데에는 ASIC이라는 특별한 기기나 컴퓨터 그래픽 카드가 필요해요.
 
+![암호화폐 채굴에 쓰이는 ASIC과 그래픽 카드](./images/110-2.png)
 
-암호화폐 채굴에 쓰이는 ASIC과 그래픽 카드
-
-
-암호화폐 채굴에 쓰이는 ASIC과 그래픽 카드
+![암호화폐 채굴에 쓰이는 ASIC과 그래픽 카드](./images/110.jpg)
 
 컴퓨터에 관심이 조금 있는 분이라면 아시겠지만, 최근 암호화폐 가격의 급등으로 인해서 컴퓨터 그래픽 카드의 가격도 급격하게 상승했어요.  
 태양광/풍력 발전소에서도 이런 기기들을 구입하게 된다면 비슷하게 가격이 오를 가능성이 높고, 그렇다면 다른 형태의 비용 부담이 늘어나게 되겠죠.  
@@ -85,18 +81,16 @@ description: "티스토리 아카이브"
 이 상태에서 일부만 비트코인 채굴에 사용되더라도 발전소들은 의미 있는 수익을 거둘 수 있을 거에요. ASIC이나 그래픽 카드가 아무리 비싸더라도 아직은 송전망이나 배터리에 비하면 저렴하니까요.  
 경제적 효율성에 대한 정교한 계산은 다소 빈약하지만, 현재 주로 환경을 파괴하는 방식으로 이루어지고 있는 비트코인 채굴의 다른 방향성을 제시한다는 점만으로도 가치 있는 보고서인 듯 해요.
 
-* * *
+---
 
 #### 참고자료
 
-*   [비트코인 채굴이 환경 친화적? ...부호들의 수상한 말말말](https://biz.chosun.com/site/data/html_dir/2021/04/23/2021042301546.html)
-*   [Levelized Costs of New Generation Resources in the Annual Energy Outlook 2021](https://www.eia.gov/outlooks/aeo/pdf/electricity_generation.pdf)
-*   [Ten Years of Analyzing the Duck Chart](https://www.nrel.gov/news/program/2018/10-years-duck-curve.html)
-*   [Cambridge Bitcoin Electricity Consumption Index](https://cbeci.org/)
-*   [Industrial Sector Energy Consumption](https://www.eia.gov/outlooks/ieo/pdf/industrial.pdf)
+- [비트코인 채굴이 환경 친화적? ...부호들의 수상한 말말말](https://biz.chosun.com/site/data/html_dir/2021/04/23/2021042301546.html)
+- [Levelized Costs of New Generation Resources in the Annual Energy Outlook 2021](https://www.eia.gov/outlooks/aeo/pdf/electricity_generation.pdf)
+- [Ten Years of Analyzing the Duck Chart](https://www.nrel.gov/news/program/2018/10-years-duck-curve.html)
+- [Cambridge Bitcoin Electricity Consumption Index](https://cbeci.org/)
+- [Industrial Sector Energy Consumption](https://www.eia.gov/outlooks/ieo/pdf/industrial.pdf)
 
-* * *
-
-  
+---
 
 #태양광 발전 #풍력 발전 #Bitcoin #비트코인 #친환경 발전 #wind power plant #solar power plant

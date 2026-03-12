@@ -8,7 +8,7 @@ description: "티스토리 아카이브"
 
 학습일: 2020년 5월 2일
 
-* * *
+---
 
 ## 10\. 레이어드 아키텍쳐 (Layered Architecture) - BE
 
@@ -25,6 +25,7 @@ description: "티스토리 아카이브"
 
 우선, pom.xml을 수정해야 한다. (각주 (각주:
 
+![](./images/75.png)
 
 )의 코드 참고)
 
@@ -54,9 +55,9 @@ description: "티스토리 아카이브"
 > → WebMvcContextConfiguration 클래스 생성 (WebMvcConfigurerAdapter 클래스 상속)  
 > → @Configuration, @EnableWebMvc, @ComponentScan (각주: basePackages는 kr.or.connect.guestbook.controller로 설정) 입력  
 > → 클래스 메서드 Override (각주 (각주:
-> 
-> > 
-> )의 코드 및 [Spring MVC (Back End) ... Part 4](https://til-devsong.tistory.com/70?category=772389) 클래스 Override 참고)
+>
+> > ![](./images/75-1.png)
+> > )의 코드 및 [Spring MVC (Back End) ... Part 4](https://til-devsong.tistory.com/70?category=772389) 클래스 Override 참고)
 
 데이터베이스 설정을 담당할 DBConfig 클래스도 생성한다.
 
@@ -64,21 +65,22 @@ description: "티스토리 아카이브"
 > → DBConfig 클래스 생성 (TransactionManagementConfigurer 클래스 구현)  
 > → @Configuration, @EnableTransactionManagement (각주: 트랜잭션과 관련된 설정을 자동으로 해준다. 단, 사용자간 트랜잭션 처리를 담당하는 PlatformTransactionManager를 설정하려면 예시 코드와 같이 TransactionManagementConfigurer를 구현해 필요한 PlatformTransactionManager 객체를 생성한 뒤, annotationDrivenTransactionManager 메서드를 Override하면 된다.) 입력  
 > → 클래스 메서드 Override 및 DataSource를 이용하기 위한 Bean 추가 (각주 (각주:
-> 
-> > 
-> )의 코드 참고)
+>
+> > ![](./images/75-2.png)
+> > )의 코드 참고)
 
 그 다음엔 추후 생성될 DAO 객체들과 서비스 객체들의 설정을 담당할 ApplicationConfig 클래스를 생성한다.
 
 > 프로젝트 > Java Resources > src/main/java > kr.or.connect.guestbook.config 우클릭  
 > → ApplicationConfig 클래스 생성  
 > → @Configuration, @ComponentScan (각주: basePackages는 kr.or.connect.guestbook.dao, kr.or.connect.guestbook.service로 설정), @Import (각주: 대상은 DBConfig.class) 입력 (각주 (각주:
-> 
-> > 
-> )의 코드 참고)
+>
+> > ![](./images/75-3.png)
+> > )의 코드 참고)
 
 마지막으로 web.xml을 수정하면 된다. (각주 (각주:
 
+![](./images/75-4.png)
 
 )의 코드 참고)
 
@@ -93,14 +95,12 @@ description: "티스토리 아카이브"
 > → views 폴더 생성  
 > → index.jsp 생성  
 > → list URL로 리다이렉트 설정 (각주 (각주:
-> 
-> > 
-> )의 코드 참고)
+>
+> > ![](./images/75-5.png)
+> > )의 코드 참고)
 
 프로젝트를 실행했을 때, URL이 .../guestbook/list로 표시되었다면 정상적으로 설정이 완료된 것이다.
 
-* * *
-
-  
+---
 
 #Java #웹 프로그래밍 #backend #백엔드 #내용 정리 #edwith #부스트코스 #레이어드 아키텍쳐 #Layered Architecture

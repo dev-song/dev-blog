@@ -4,6 +4,7 @@ pubDatetime: 2020-07-08T15:37:58+09:00
 description: "티스토리 아카이브"
 ---
 
+![](./images/103.png)
 
 강의: [\[edwith 부스트코스\] 웹 프로그래밍](https://www.edwith.org/boostcourse-web/) 챕터 4, 웹 앱 개발: 예약서비스 2/4
 

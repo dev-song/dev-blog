@@ -47,7 +47,7 @@ CSS Transition 속성의 특징
 
 *   여러 속성에 대해 다르게 transition 값을 설정할 수 있음
 *   예시 코드
-    *           
+    *   ![](./images/52.png)
 
 참고자료: [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 

@@ -26,8 +26,7 @@ description: "티스토리 아카이브"
 
 2010년대를 전후해서, jQuery는 급격히 시장을 지배하기 시작합니다. 아래의 표를 보면 jQuery가 어느 정도의 위상을 가졌었는지 짐작하실 수 있을 것입니다. 프로그래밍 전용 질문/답변 사이트인 Stack Overflow의 모든 질문 중 7%가 jQuery 관련 질문이던 시기가 그렇게 오래 전이 아닙니다.
 
-
-Stack Overflow Trends, 2009-2020
+![Stack Overflow Trends, 2009-2020](./images/102.png)
 
 jQuery가 이처럼 인기 있었던 이유는 무엇일까요.
 

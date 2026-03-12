@@ -33,6 +33,7 @@ MessageConverter는 Java 객체와 HTTP 요청/응답의 바디를 서로 변환
 
 다양한 MessageConverter가 있다. 아래의 표를 참고하라.
 
+![](./images/82.png)
 
 #### JSON 형식의 데이터 응답하기
 

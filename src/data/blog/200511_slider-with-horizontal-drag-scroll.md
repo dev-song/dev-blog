@@ -8,20 +8,20 @@ description: "티스토리 아카이브"
 일반적으로 마우스 휠을 사용해 스크롤하지만, JavaScript를 활용하면 드래그로도 스크롤을 할 수 있습니다.  
 이 글에선 드래그를 사용한 기본적인 좌우 스크롤을 구현합니다.
 
-* * *
+---
 
 ### 튜토리얼 정보
 
-*   출처: [JavaScript30](https://javascript30.com/)
-*   이름: Day 27 - Click and Drag to Scroll
-*   언어: JavaScript
-*   목표: 웹페이지 요소를 드래그하고 좌우로 움직였을 때 스크롤과 같은 효과 구현하기
+- 출처: [JavaScript30](https://javascript30.com/)
+- 이름: Day 27 - Click and Drag to Scroll
+- 언어: JavaScript
+- 목표: 웹페이지 요소를 드래그하고 좌우로 움직였을 때 스크롤과 같은 효과 구현하기
 
 ### 진행 기간
 
 2020년 5월 11일
 
-* * *
+---
 
 ## 마우스 이벤트와 슬라이더 연동시키기
 
@@ -29,9 +29,8 @@ description: "티스토리 아카이브"
 
 현재 마우스가 클릭 중인지를 지속적으로 저장할 변수 isMouseDown (각주: 값이 바뀔 수 있어야 하기 때문에 const가 아닌 let으로 변수를 선언합니다.)을 만들어주고, 각 마우스 이벤트에 따라 true, false 값이 저장되도록 코드를 작성합니다.
 
-*   참고 코드  
-    
-        
+- 참고 코드  
+  ![](./images/88.png)
 
 ## 드래그 시작 위치 파악하기
 
@@ -40,9 +39,8 @@ description: "티스토리 아카이브"
 
 드래그를 시작한 지점의 x 좌표를 변수 startX에 저장 (각주: 슬라이더에 대한 상대적 x 좌표여야 하므로, 슬라이더의 왼쪽 여백은 제외해줘야 합니다.)하고 슬라이더가 현재 얼만큼 스크롤되었는지 변수 scrollLeft에 저장한다.
 
-*   참고 코드  
-    
-        
+- 참고 코드  
+  ![](./images/88-1.png)
 
 ## 드래그 거리 스크롤로 전환하기
 
@@ -54,16 +52,13 @@ description: "티스토리 아카이브"
 
 마지막으로 슬라이더의 스크롤한 거리를 scrollLeft에서 walk만큼 빼주면 드래그한 거리만큼 스크롤한 거리에 추가되어, 정상적으로 작동하게 됩니다.
 
-*   참고 코드  
-    
-        
+- 참고 코드  
+  ![](./images/88-2.png)
 
-* * *
+---
 
 [GitHub 저장소 링크](https://github.com/dev-song/_home/tree/master/projects/JavaScript30/Day%2027/tutorial-Click-and-Drag)
 
-* * *
-
-  
+---
 
 #자바스크립트 #javascript #튜토리얼 #마우스 드래그 #좌우 스크롤 #javascript30

@@ -24,6 +24,7 @@ JavaScript를 사용해 웹페이지 요소의 텍스트에 접근할 때 Node.t
 <textarea id="innerHtmlOutput" rows="4" cols="30" readonly>...</textarea>
 ```
 
+![](./images/101.png)
 
 세 속성이 다른 결과를 보여준다는 것을 시각적으로 확인할 수 있을 것이다. 시각적인 결과의 차이뿐 아니라, 성능 상의 차이도 존재한다. 차이점을 요약하면 다음의 표와 같다.
 

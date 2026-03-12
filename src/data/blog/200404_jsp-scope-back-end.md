@@ -18,7 +18,9 @@ Scope란?
 
 *   Scope의 정의: 변수를 사용할 수 있는 범위
 *   JSP Scope의 종류
-    *           
+
+![](./images/28.png)
+
 
 Page Scope
 
