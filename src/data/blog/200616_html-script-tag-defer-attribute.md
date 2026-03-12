@@ -2,6 +2,12 @@
 title: "HTML <script> 태그를 사용하는 또 다른 방법, defer 속성"
 pubDatetime: 2020-06-16T23:03:46.622Z
 description: "티스토리 아카이브"
+tags:
+  - "HTML"
+  - "javascript"
+  - "defer"
+  - "script"
+  - "script 태그"
 ---
 
 HTML 문서를 작성할 때 약방의 감초마냥 함께 등장하는 것들이 있다. 바로 CSS와 JavaScript이다.

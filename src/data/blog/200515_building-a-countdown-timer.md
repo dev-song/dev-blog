@@ -2,6 +2,15 @@
 title: "카운트다운 타이머 만들기"
 pubDatetime: 2020-05-15T00:54:34+09:00
 description: "티스토리 아카이브"
+tags:
+  - "자바스크립트"
+  - "javascript"
+  - "카운트다운"
+  - "튜토리얼"
+  - "Countdown"
+  - "타이머"
+  - "mouseclick"
+  - "javascript30"
 ---
 
 튜토리얼 출처: [JavaScript30](https://javascript30.com/)
@@ -85,4 +94,3 @@ startTimer( ) 함수의 작동 방식은 다음과 같다.
 
 ---
 
-#자바스크립트 #javascript #카운트다운 #튜토리얼 #Countdown #타이머 #mouseclick #javascript30

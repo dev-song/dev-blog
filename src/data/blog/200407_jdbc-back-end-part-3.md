@@ -2,6 +2,16 @@
 title: "JDBC (Back End) ... Part 3"
 pubDatetime: 2020-04-07T16:55:20+09:00
 description: "티스토리 아카이브"
+tags:
+  - "jdbc"
+  - "웹 프로그래밍"
+  - "BACK END"
+  - "프레임워크"
+  - "인터넷 강의"
+  - "백엔드"
+  - "내용 정리"
+  - "edwith"
+  - "부스트코스"
 ---
 
 사이트: edwith
@@ -55,4 +65,3 @@ JDBC 실습하기 (2) - 데이터 추가, 데이터 조회
 
 - 참고자료: [DAO vs DTO(=VO) 개념 알아보기](https://jungwoon.github.io/common%20sense/2017/11/16/DAO-VO-DTO/)
 
-#jdbc #웹 프로그래밍 #BACK END #프레임워크 #인터넷 강의 #백엔드 #내용 정리 #edwith #부스트코스

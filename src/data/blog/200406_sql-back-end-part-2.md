@@ -2,6 +2,14 @@
 title: "SQL (Back End) ... Part 2"
 pubDatetime: 2020-04-06T01:19:34+09:00
 description: "티스토리 아카이브"
+tags:
+  - "SQL"
+  - "웹 프로그래밍"
+  - "DDL"
+  - "인터넷 강의"
+  - "내용 정리"
+  - "edwith"
+  - "부스트코스"
 ---
 
 사이트: edwith
@@ -77,6 +85,3 @@ DDL(Data Definition Language, 데이터 정의어)
     *   EUC-KR: 영문, 숫자, 기호는 1 Byte, 한글, 한자는 2 Byte를 차지
     *   UTF-8: 영문, 숫자, 기호는 1 Byte, 한글, 한자는 3 Byte를 차지
 
-  
-
-#SQL #웹 프로그래밍 #DDL #인터넷 강의 #내용 정리 #edwith #부스트코스

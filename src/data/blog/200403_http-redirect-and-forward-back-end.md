@@ -2,6 +2,16 @@
 title: "HTTP redirect & forward (Back End)"
 pubDatetime: 2020-04-03T15:00:45+09:00
 description: "티스토리 아카이브"
+tags:
+  - "Forward"
+  - "redirect"
+  - "웹 프로그래밍"
+  - "HTTP"
+  - "인터넷 강의"
+  - "내용 정리"
+  - "edwith"
+  - "부스트코스"
+  - "jsp servlet 연동"
 ---
 
 사이트: edwith
@@ -79,4 +89,3 @@ Servlet & JSP 연동
 - 와일드카드 문자인 \*를 Servlet의 URL mappings에 활용
 - 참고자료: URL Patterns
 
-#Forward #redirect #웹 프로그래밍 #HTTP #인터넷 강의 #내용 정리 #edwith #부스트코스 #jsp servlet 연동

@@ -2,6 +2,17 @@
 title: "EL과 JSTL (Back End)"
 pubDatetime: 2020-04-05T19:31:20+09:00
 description: "티스토리 아카이브"
+tags:
+  - "jsp"
+  - "El"
+  - "JSTL"
+  - "웹 프로그래밍"
+  - "BACK END"
+  - "인터넷 강의"
+  - "백엔드"
+  - "내용 정리"
+  - "edwith"
+  - "부스트코스"
 ---
 
 사이트: edwith
@@ -150,4 +161,3 @@ JSTL(JSP Standard Tag Library)
                         *   ' → &#039;
                         *   "  &#034;
 
-#jsp #El #JSTL #웹 프로그래밍 #BACK END #인터넷 강의 #백엔드 #내용 정리 #edwith #부스트코스

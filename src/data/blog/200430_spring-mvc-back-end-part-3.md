@@ -2,6 +2,16 @@
 title: "Spring MVC (Back End) ... Part 3"
 pubDatetime: 2020-04-30T17:03:34+09:00
 description: "티스토리 아카이브"
+tags:
+  - "Java"
+  - "Spring"
+  - "MVC"
+  - "웹 프로그래밍"
+  - "backend"
+  - "백엔드"
+  - "내용 정리"
+  - "edwith"
+  - "부스트코스"
 ---
 
 강의: [\[edwith 부스트코스\] 웹 프로그래밍](https://www.edwith.org/boostcourse-web/) 챕터 3, 웹 앱 개발: 예약서비스 1/4
@@ -105,4 +115,3 @@ Spring MVC 웹페이지 작성 실습 - Spring MVC 설정 개요
         - Http 메서드와 연결하는 경우, Spring 버전 4.3부터  
           GetMapping, PostMapping, PutMapping, DeleteMapping, PatchMapping도 사용할 수 있음
 
-#Java #Spring #MVC #웹 프로그래밍 #backend #백엔드 #내용 정리 #edwith #부스트코스

@@ -2,6 +2,15 @@
 title: "브라우저로 웹캠 화면 갖고 놀기"
 pubDatetime: 2020-05-03T17:15:08+09:00
 description: "티스토리 아카이브"
+tags:
+  - "웹캠"
+  - "자바스크립트"
+  - "javascript"
+  - "캡쳐"
+  - "Webcam"
+  - "튜토리얼"
+  - "web api"
+  - "javascript30"
 ---
 
 튜토리얼 출처: [JavaScript30](https://javascript30.com/)
@@ -102,4 +111,3 @@ Red, Green, Blue, Alpha 4개의 원소가 하나의 픽셀을 구성하므로, R
 
 ---
 
-#웹캠 #자바스크립트 #javascript #캡쳐 #Webcam #튜토리얼 #web api #javascript30

@@ -2,6 +2,14 @@
 title: "JavaScript 코딩 연습 - The Most Wanted Letter"
 pubDatetime: 2020-03-25T17:55:50+09:00
 description: "티스토리 아카이브"
+tags:
+  - "자바스크립트"
+  - "javascript"
+  - "코딩"
+  - "coding"
+  - "checkio"
+  - "coding practice"
+  - "코딩 연습"
 ---
 
 **문제 / 웹사이트**
@@ -125,4 +133,3 @@ function mostWanted(data) {
 
 - 푸는 데 걸린 시간: 1시간 23분
 
-#자바스크립트 #javascript #코딩 #coding #checkio #coding practice #코딩 연습

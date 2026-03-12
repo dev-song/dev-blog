@@ -2,6 +2,17 @@
 title: "Java Web Programming Tips ... Part 1"
 pubDatetime: 2020-04-10T17:33:46+09:00
 description: "티스토리 아카이브"
+tags:
+  - "Java"
+  - "mysql"
+  - "HTML"
+  - "css"
+  - "javascript"
+  - "tip"
+  - "web programming"
+  - "웹 프로그래밍"
+  - "edwith"
+  - "부스트코스"
 ---
 
 프로젝트: \[edwith 부스트코스\] 웹 프로그래밍 프로젝트 B, To-do List 만들기
@@ -77,6 +88,3 @@ description: "티스토리 아카이브"
     *   text: 삽입될 HTML 또는 XML 문자열
 *   참고자료: [Element.insertAdjacentHTML() - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Element/insertAdjacentHTML)
 
-  
-
-#Java #mysql #HTML #css #javascript #tip #web programming #웹 프로그래밍 #edwith #부스트코스

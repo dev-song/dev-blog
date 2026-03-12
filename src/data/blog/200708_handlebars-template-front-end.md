@@ -2,6 +2,12 @@
 title: "[JS] handlebars 라이브러리를 활용한 템플릿 작업 ... Part 1"
 pubDatetime: 2020-07-08T15:37:58+09:00
 description: "티스토리 아카이브"
+tags:
+  - "javascript"
+  - "template"
+  - "Library"
+  - "front end"
+  - "Handlebars"
 ---
 
 ![](./images/103.png)
@@ -92,6 +98,3 @@ CDN 홈페이지에 들어가 Handlebars 라이브러리 주소를 복사한 후
 
 * * *
 
-  
-
-#javascript #template #Library #front end #Handlebars

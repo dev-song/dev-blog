@@ -2,6 +2,17 @@
 title: "JSP Scope (Back End)"
 pubDatetime: 2020-04-04T03:05:41+09:00
 description: "티스토리 아카이브"
+tags:
+  - "jsp"
+  - "Page"
+  - "SESSION"
+  - "request"
+  - "웹 프로그래밍"
+  - "인터넷 강의"
+  - "Scope"
+  - "내용 정리"
+  - "edwith"
+  - "부스트코스"
 ---
 
 사이트: edwith
@@ -83,6 +94,3 @@ Application Scope
     *   데이터 관리가 적절하게 되지 않을 경우,  
         데이터 양이 임계점을 넘으면 웹 어플리케이션 자체가 작동하지 않을 수 있음 (= 죽어버림)
 
-  
-
-#jsp #Page #SESSION #request #웹 프로그래밍 #인터넷 강의 #Scope #내용 정리 #edwith #부스트코스

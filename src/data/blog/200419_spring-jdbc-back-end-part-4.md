@@ -2,6 +2,17 @@
 title: "Spring JDBC (Back End) ... Part 4"
 pubDatetime: 2020-04-19T22:23:07+09:00
 description: "티스토리 아카이브"
+tags:
+  - "Java"
+  - "SQL"
+  - "Spring"
+  - "jdbc"
+  - "Dao"
+  - "웹 프로그래밍"
+  - "dto"
+  - "내용 정리"
+  - "edwith"
+  - "부스트코스"
 ---
 
 강의: [\[edwith 부스트코스\] 웹 프로그래밍](https://www.edwith.org/boostcourse-web/) 챕터 3, 웹 앱 개발: 예약서비스 1/4
@@ -98,4 +109,3 @@ Spring JDBC를 이용해 DELETE_BY_ROLE_ID 쿼리문 실행하기
     - getBean( ) 메서드로 ApplicationContext에서 RoleDao 객체를 얻어냄
     - RoleDao 객체의 deleteById( ) 메서드로 쿼리문을 실행한 뒤, 결과값을 count 변수에 저장
 
-#Java #SQL #Spring #jdbc #Dao #웹 프로그래밍 #dto #내용 정리 #edwith #부스트코스

@@ -2,6 +2,16 @@
 title: "JavaScript (Front End) ... Part 1"
 pubDatetime: 2020-04-02T13:04:49+09:00
 description: "티스토리 아카이브"
+tags:
+  - "자바스크립트"
+  - "javascript"
+  - "웹 프로그래밍"
+  - "인터넷 강의"
+  - "프론트엔드"
+  - "front end"
+  - "내용 정리"
+  - "edwith"
+  - "부스트코스"
 ---
 
 사이트: edwith
@@ -119,6 +129,3 @@ JavaScript의 조건문/반복문/문자열
             *   String.prototype.split( ): 문자열을 특정한 기준으로 분할해 반환하는 메서드
     *   RegExp(Regular Expression, 정규표현식)을 지원해, 문자열을 패턴화해 다양하게 활용할 수 있음
 
-  
-
-#자바스크립트 #javascript #웹 프로그래밍 #인터넷 강의 #프론트엔드 #front end #내용 정리 #edwith #부스트코스

@@ -2,6 +2,15 @@
 title: "정관사 The, A, An이 포함된 문자열 정렬하기"
 pubDatetime: 2020-04-29T16:27:11+09:00
 description: "티스토리 아카이브"
+tags:
+  - "자바스크립트"
+  - "javascript"
+  - "튜토리얼"
+  - "string"
+  - "sort"
+  - "문자열 비교"
+  - "javascript30"
+  - "includes"
 ---
 
 튜토리얼 출처: [JavaScript30](https://javascript30.com/)
@@ -36,6 +45,3 @@ Array.prototype.sort( ) 메서드의 특징
 
 [GitHub 저장소 링크](https://github.com/dev-song/_home/tree/master/projects/JavaScript30/Day%2017/tutorial-Sort-Without-Articles)
 
-  
-
-#자바스크립트 #javascript #튜토리얼 #string #sort #문자열 비교 #javascript30 #includes

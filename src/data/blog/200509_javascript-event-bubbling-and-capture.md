@@ -2,6 +2,16 @@
 title: "JavaScript 이벤트 버블링과 이벤트 캡쳐"
 pubDatetime: 2020-05-09T15:30:24+09:00
 description: "티스토리 아카이브"
+tags:
+  - "자바스크립트"
+  - "javascript"
+  - "Once"
+  - "튜토리얼"
+  - "이벤트 버블링"
+  - "이벤트 전파"
+  - "javascript30"
+  - "이벤트 캡처"
+  - "DOM 요소"
 ---
 
 튜토리얼 출처: [JavaScript30](https://javascript30.com/)
@@ -68,4 +78,3 @@ stopPropagation( ) 메서드 (각주: 참고자료: [Event.stopPropagation() - W
 
 ---
 
-#자바스크립트 #javascript #Once #튜토리얼 #이벤트 버블링 #이벤트 전파 #javascript30 #이벤트 캡처 #DOM 요소

@@ -2,6 +2,12 @@
 title: "[JS] bind 메서드를 활용한 this 제어"
 pubDatetime: 2020-06-18T18:18:01+09:00
 description: "티스토리 아카이브"
+tags:
+  - "javascript"
+  - "This"
+  - "bind"
+  - "front end"
+  - "화살표 함수"
 ---
 
 강의: [\[edwith 부스트코스\] 웹 프로그래밍](https://www.edwith.org/boostcourse-web/) 챕터 4, 웹 앱 개발: 예약서비스 2/4
@@ -80,4 +86,3 @@ if (!Function.prototype.bind) {
 
 ---
 
-#javascript #This #bind #front end #화살표 함수

@@ -2,6 +2,15 @@
 title: "Java Servlet (Back End) ... Part 1"
 pubDatetime: 2020-04-01T12:23:54+09:00
 description: "티스토리 아카이브"
+tags:
+  - "Java"
+  - "servlet"
+  - "웹 프로그래밍"
+  - "인터넷 강의"
+  - "웹 어플리케이션"
+  - "내용 정리"
+  - "edwith"
+  - "부스트코스"
 ---
 
 사이트: edwith
@@ -89,4 +98,3 @@ Servlet의 작성 방법
 
 - doGet, doPost 등 HttpServlet 객체에 포함된 메서드를 사용하기 위함
 
-#Java #servlet #웹 프로그래밍 #인터넷 강의 #웹 어플리케이션 #내용 정리 #edwith #부스트코스

@@ -2,6 +2,17 @@
 title: "Web Animation (Front End)"
 pubDatetime: 2020-04-12T18:16:54+09:00
 description: "티스토리 아카이브"
+tags:
+  - "css"
+  - "setTimeout"
+  - "웹 프로그래밍"
+  - "transition"
+  - "setInterval"
+  - "내용 정리"
+  - "edwith"
+  - "부스트코스"
+  - "requestAnimationFrame"
+  - "웹 애니메이션"
 ---
 
 강의: [\[edwith 부스트코스\] 웹 프로그래밍](https://www.edwith.org/boostcourse-web/) 챕터 3, 웹 앱 개발: 예약서비스 1/4
@@ -82,4 +93,3 @@ CSS3 transition 활용
   - transition, transform 등 신규 기능을 지원하지 않는 버전이더라도 해당 기능을 사용할 수 있게 됨
   - 참고자료: [벤더 프리픽스 - TCP School](http://tcpschool.com/css/css3_module_vendorPrefix)
 
-#css #setTimeout #웹 프로그래밍 #transition #setInterval #내용 정리 #edwith #부스트코스 #requestAnimationFrame #웹 애니메이션

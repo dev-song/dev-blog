@@ -2,6 +2,15 @@
 title: "JavaScript 배열 다루기 1"
 pubDatetime: 2020-04-15T15:39:05+09:00
 description: "티스토리 아카이브"
+tags:
+  - "자바스크립트"
+  - "javascript"
+  - "array"
+  - "튜토리얼"
+  - "Filter"
+  - "Reduce"
+  - "javascript30"
+  - "includes"
 ---
 
 튜토리얼 출처: [JavaScript30](https://javascript30.com/)
@@ -35,4 +44,3 @@ description: "티스토리 아카이브"
 
 [GitHub 저장소 링크](https://github.com/dev-song/_home/tree/master/projects/JavaScript30/Day%2004/tutorial-Array-Cardio-1)
 
-#자바스크립트 #javascript #array #튜토리얼 #Filter #Reduce #javascript30 #includes

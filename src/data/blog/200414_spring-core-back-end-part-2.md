@@ -2,6 +2,17 @@
 title: "Spring Core (Back End) ... Part 2"
 pubDatetime: 2020-04-14T23:22:22+09:00
 description: "티스토리 아카이브"
+tags:
+  - "Java"
+  - "Spring"
+  - "di"
+  - "Singleton"
+  - "웹 프로그래밍"
+  - "BEAN"
+  - "applicationcontext"
+  - "내용 정리"
+  - "edwith"
+  - "부스트코스"
 ---
 
 강의: [\[edwith 부스트코스\] 웹 프로그래밍](https://www.edwith.org/boostcourse-web/) 챕터 3, 웹 앱 개발: 예약서비스 1/4
@@ -126,4 +137,3 @@ XML 파일을 이용한 설정
       - id가 car인 Bean에서 반환된 객체를 실행
         - engine 클래스를 별도로 호출할 필요가 없음
 
-#Java #Spring #di #Singleton #웹 프로그래밍 #BEAN #applicationcontext #내용 정리 #edwith #부스트코스

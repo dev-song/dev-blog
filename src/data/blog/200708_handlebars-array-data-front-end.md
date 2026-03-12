@@ -2,6 +2,15 @@
 title: "[JS] handlebars 라이브러리를 활용한 템플릿 작업 ... Part 2"
 pubDatetime: 2020-07-08T16:03:23+09:00
 description: "티스토리 아카이브"
+tags:
+  - "javascript"
+  - "template"
+  - "Library"
+  - "front end"
+  - "Helper"
+  - "Handlebars"
+  - "template literal"
+  - "tagged template literal"
 ---
 
 ![](./images/104.png)
@@ -212,6 +221,3 @@ console.log(output);		// Dev is a child
 
 * * *
 
-  
-
-#javascript #template #Library #front end #Helper #Handlebars #template literal #tagged template literal

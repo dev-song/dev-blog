@@ -2,6 +2,11 @@
 title: "SQL Join 알아보기 ... Join이란?"
 pubDatetime: 2020-05-25T15:13:25+09:00
 description: "티스토리 아카이브"
+tags:
+  - "SQL"
+  - "Join"
+  - "RDBMS"
+  - "관계형 데이터베이스"
 ---
 
 SQL Join 명령문에 대해 간단하게 설명한 [SQL Joins Explained](http://www.sql-join.com/)를 번역한 글입니다.
@@ -241,6 +246,3 @@ $65.50
 
 * * *
 
-  
-
-#SQL #Join #RDBMS #관계형 데이터베이스

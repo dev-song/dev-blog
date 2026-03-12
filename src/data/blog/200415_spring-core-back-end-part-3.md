@@ -2,6 +2,17 @@
 title: "Spring Core (Back End) ... Part 3"
 pubDatetime: 2020-04-15T16:18:05+09:00
 description: "티스토리 아카이브"
+tags:
+  - "Java"
+  - "Spring"
+  - "di"
+  - "annotation"
+  - "웹 프로그래밍"
+  - "BEAN"
+  - "applicationcontext"
+  - "내용 정리"
+  - "edwith"
+  - "부스트코스"
 ---
 
 강의: [\[edwith 부스트코스\] 웹 프로그래밍](https://www.edwith.org/boostcourse-web/) 챕터 3, 웹 앱 개발: 예약서비스 1/4
@@ -74,4 +85,3 @@ Java Config를 이용한 설정
   - IntelliJ IDE는 Constructor based Injection을 권장함
   - 참고자료: [스프링 - 생성자 수입을 사용해야 하는 이유, 필드인젝션이 좋지 않은 이유](https://yaboong.github.io/spring/2019/08/29/why-field-injection-is-bad/)
 
-#Java #Spring #di #annotation #웹 프로그래밍 #BEAN #applicationcontext #내용 정리 #edwith #부스트코스

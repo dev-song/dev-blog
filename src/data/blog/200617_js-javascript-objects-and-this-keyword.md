@@ -2,6 +2,13 @@
 title: "[JS] JavaScript 객체와 this 키워드"
 pubDatetime: 2020-06-17T21:44:55+09:00
 description: "티스토리 아카이브"
+tags:
+  - "javascript"
+  - "This"
+  - "Call"
+  - "객체지향"
+  - "front end"
+  - "객체 리터럴"
 ---
 
 강의: [\[edwith 부스트코스\] 웹 프로그래밍](https://www.edwith.org/boostcourse-web/) 챕터 4, 웹 앱 개발: 예약서비스 2/4
@@ -62,4 +69,3 @@ JavaScript의 전역 스크립트나 함수가 실행될 때, 실행 영역(Exec
 
 ---
 
-#javascript #This #Call #객체지향 #front end #객체 리터럴

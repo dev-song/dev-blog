@@ -2,6 +2,13 @@
 title: "특정 키 조합에 반응하는 웹페이지"
 pubDatetime: 2020-04-23T10:27:16+09:00
 description: "티스토리 아카이브"
+tags:
+  - "자바스크립트"
+  - "javascript"
+  - "튜토리얼"
+  - "키보드 이벤트"
+  - "javascript30"
+  - "keyboard event"
 ---
 
 튜토리얼 출처: [JavaScript30](https://javascript30.com/)
@@ -31,6 +38,3 @@ description: "티스토리 아카이브"
 
 [Github 저장소 링크](https://github.com/dev-song/_home/tree/master/projects/JavaScript30/Day%2012/tutorial-Key-Sequence-Detection)
 
-  
-
-#자바스크립트 #javascript #튜토리얼 #키보드 이벤트 #javascript30 #keyboard event

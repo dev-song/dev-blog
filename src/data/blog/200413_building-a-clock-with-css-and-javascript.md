@@ -2,6 +2,16 @@
 title: "CSS와 JavaScript로 시계 만들기"
 pubDatetime: 2020-04-13T13:23:51+09:00
 description: "티스토리 아카이브"
+tags:
+  - "HTML"
+  - "자바스크립트"
+  - "css"
+  - "javascript"
+  - "튜토리얼"
+  - "transition"
+  - "transition-timing-function"
+  - "transform-origin"
+  - "javascript30"
 ---
 
 튜토리얼 출처: [JavaScript30](https://javascript30.com/)
@@ -44,6 +54,3 @@ CSS transform( ) 속성의 기준점 설정하기
 
 [GitHub 저장소 링크](https://github.com/dev-song/_home/tree/master/projects/JavaScript30/Day%2002/tutorial-JS%2BCSS-Clock)
 
-  
-
-#HTML #자바스크립트 #css #javascript #튜토리얼 #transition #transition-timing-function #transform-origin #javascript30

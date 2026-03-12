@@ -2,6 +2,15 @@
 title: "[JS] 이해하기 쉬운 코드, 클린 코드"
 pubDatetime: 2020-07-09T15:14:20+09:00
 description: "티스토리 아카이브"
+tags:
+  - "javascript"
+  - "Return"
+  - "함수 이름"
+  - "변수 이름"
+  - "clean code"
+  - "클린 코드"
+  - "naming convention"
+  - "Code Convention"
 ---
 
 ![](./images/105.png)
@@ -120,6 +129,3 @@ function getAgeCategory(age) {
 
 * * *
 
-  
-
-#javascript #Return #함수 이름 #변수 이름 #clean code #클린 코드 #naming convention #Code Convention

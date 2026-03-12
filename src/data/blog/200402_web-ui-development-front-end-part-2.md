@@ -2,6 +2,17 @@
 title: "Web UI 개발 (Front End) ... Part 2"
 pubDatetime: 2020-04-02T23:57:38+09:00
 description: "티스토리 아카이브"
+tags:
+  - "ajax"
+  - "debugging"
+  - "XMLHttpRequest"
+  - "JSON"
+  - "웹 프로그래밍"
+  - "인터넷 강의"
+  - "Web UI"
+  - "내용 정리"
+  - "edwith"
+  - "부스트코스"
 ---
 
 사이트: edwith
@@ -61,4 +72,3 @@ JavaScript Debugging
       - Activate/Deactivate breakpoint: Breakpoint를 활성화, 비활성화함
       - Pause on exception: 예외 발생 시 자동으로 해당 위치에 Breakpoint를 설정
 
-#ajax #debugging #XMLHttpRequest #JSON #웹 프로그래밍 #인터넷 강의 #Web UI #내용 정리 #edwith #부스트코스

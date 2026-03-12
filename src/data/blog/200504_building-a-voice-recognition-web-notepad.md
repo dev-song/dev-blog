@@ -2,6 +2,14 @@
 title: "음성을 인식하는 웹 메모장 만들기"
 pubDatetime: 2020-05-04T17:51:42+09:00
 description: "티스토리 아카이브"
+tags:
+  - "마이크"
+  - "자바스크립트"
+  - "javascript"
+  - "튜토리얼"
+  - "음성 인식"
+  - "javascript30"
+  - "speech detection"
 ---
 
 튜토리얼 출처: [JavaScript30](https://javascript30.com/)
@@ -80,4 +88,3 @@ description: "티스토리 아카이브"
 
 ---
 
-#마이크 #자바스크립트 #javascript #튜토리얼 #음성 인식 #javascript30 #speech detection

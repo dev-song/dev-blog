@@ -2,6 +2,17 @@
 title: "Web UI 심화 (Front End)"
 pubDatetime: 2020-04-13T20:26:04+09:00
 description: "티스토리 아카이브"
+tags:
+  - "웹 프로그래밍"
+  - "Web UI"
+  - "내용 정리"
+  - "edwith"
+  - "부스트코스"
+  - "DOMContentLoaded"
+  - "Event Delegation"
+  - "HTML Templating"
+  - "Event Bubbling"
+  - "Event Capturing"
 ---
 
 강의: [\[edwith 부스트코스\] 웹 프로그래밍](https://www.edwith.org/boostcourse-web/) 챕터 3, 웹 앱 개발: 예약서비스 1/4
@@ -113,4 +124,3 @@ HTML Templating 실습
   - 예시 코드
     - ![](./images/44-5.png)
 
-#웹 프로그래밍 #Web UI #내용 정리 #edwith #부스트코스 #DOMContentLoaded #Event Delegation #HTML Templating #Event Bubbling #Event Capturing

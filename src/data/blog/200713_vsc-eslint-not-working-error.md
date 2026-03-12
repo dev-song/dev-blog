@@ -2,6 +2,17 @@
 title: "[VSC] ESLint 라이브러리가 작동하지 않는 에러"
 pubDatetime: 2020-07-13T12:26:41+09:00
 description: "티스토리 아카이브"
+tags:
+  - "javascript"
+  - "문제 해결"
+  - "front end"
+  - "Extensions"
+  - "확장프로그램"
+  - "React"
+  - "visual studio code"
+  - "create-react-app"
+  - "eslint"
+  - "workingDirectories"
 ---
 
 ![](./images/106.png)
@@ -90,6 +101,3 @@ ESLint가 설치된 위치가 root 폴더가 아닐 때, 즉 프로젝트가 여
 
 * * *
 
-  
-
-#javascript #문제 해결 #front end #Extensions #확장프로그램 #React #visual studio code #create-react-app #eslint #workingDirectories

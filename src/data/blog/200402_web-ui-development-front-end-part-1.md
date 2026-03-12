@@ -2,6 +2,17 @@
 title: "Web UI 개발 (Front End) ... Part 1"
 pubDatetime: 2020-04-02T23:39:14+09:00
 description: "티스토리 아카이브"
+tags:
+  - "자바스크립트"
+  - "javascript"
+  - "setTimeout"
+  - "웹 프로그래밍"
+  - "인터넷 강의"
+  - "Web UI"
+  - "내용 정리"
+  - "edwith"
+  - "부스트코스"
+  - "window 객체"
 ---
 
 사이트: edwith
@@ -71,4 +82,3 @@ DOM과 querySelector
   - 이벤트 리스너 함수 안에서 이벤트 객체를 활용해 추가적인 작업을 할 수 있음
     - 예시) event.target: 이벤트가 발생한 HTML 요소에 대한 정보를 담은 객체를 반환
 
-#자바스크립트 #javascript #setTimeout #웹 프로그래밍 #인터넷 강의 #Web UI #내용 정리 #edwith #부스트코스 #window 객체

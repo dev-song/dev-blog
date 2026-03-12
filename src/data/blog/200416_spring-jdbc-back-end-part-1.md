@@ -2,6 +2,16 @@
 title: "Spring JDBC (Back End) ... Part 1"
 pubDatetime: 2020-04-16T21:24:31+09:00
 description: "티스토리 아카이브"
+tags:
+  - "Java"
+  - "Spring"
+  - "jdbc"
+  - "웹 프로그래밍"
+  - "내용 정리"
+  - "edwith"
+  - "부스트코스"
+  - "jdbctemplate"
+  - "Spring JDBC"
 ---
 
 강의: [\[edwith 부스트코스\] 웹 프로그래밍](https://www.edwith.org/boostcourse-web/) 챕터 3, 웹 앱 개발: 예약서비스 1/4
@@ -79,4 +89,3 @@ Spring JDBC 소개
     - 더 쉽게 데이터 테이블에 insert 작업을 할 수 있게 해줌
     - 참고자료: [Spring JDBC - SimpleJdbcInsert Class - TutorialsPoint](https://www.tutorialspoint.com/springjdbc/springjdbc_simplejdbcinsert.htm)
 
-#Java #Spring #jdbc #웹 프로그래밍 #내용 정리 #edwith #부스트코스 #jdbctemplate #Spring JDBC

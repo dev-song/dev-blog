@@ -2,6 +2,14 @@
 title: "JavaScript 코딩 연습 - Median"
 pubDatetime: 2020-03-10T16:12:56+09:00
 description: "티스토리 아카이브"
+tags:
+  - "자바스크립트"
+  - "javascript"
+  - "코딩"
+  - "coding"
+  - "checkio"
+  - "coding practice"
+  - "코딩 연습"
 ---
 
 **문제 / 웹사이트**
@@ -109,4 +117,3 @@ function median(data) {
 }
 ```
 
-#자바스크립트 #javascript #코딩 #coding #checkio #coding practice #코딩 연습

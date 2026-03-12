@@ -2,6 +2,14 @@
 title: "Flex 이미지 갤러리"
 pubDatetime: 2020-04-16T23:40:44+09:00
 description: "티스토리 아카이브"
+tags:
+  - "자바스크립트"
+  - "css"
+  - "javascript"
+  - "튜토리얼"
+  - "FLEX"
+  - "transition"
+  - "javascript30"
 ---
 
 튜토리얼 출처: [JavaScript30](https://javascript30.com/)
@@ -55,6 +63,3 @@ CSS Transition 속성의 특징
 
 [GitHub 저장소 링크](https://github.com/dev-song/_home/tree/master/projects/JavaScript30/Day%2005/tutorial-Flex-Panel-Gallery)
 
-  
-
-#자바스크립트 #css #javascript #튜토리얼 #FLEX #transition #javascript30

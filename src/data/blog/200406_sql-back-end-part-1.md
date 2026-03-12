@@ -2,6 +2,14 @@
 title: "SQL (Back End) ... Part 1"
 pubDatetime: 2020-04-06T00:51:54+09:00
 description: "티스토리 아카이브"
+tags:
+  - "SQL"
+  - "DML"
+  - "웹 프로그래밍"
+  - "인터넷 강의"
+  - "내용 정리"
+  - "edwith"
+  - "부스트코스"
 ---
 
 사이트: edwith
@@ -173,6 +181,3 @@ DML(Data Manipulation Language, 데이터 조작어)
 
 *   실무에서는 테스트코드를 통해 구현하거나 쿼리문을 실제로 실행하기 전 테스트 DB에서 먼저 실행
 
-  
-
-#SQL #DML #웹 프로그래밍 #인터넷 강의 #내용 정리 #edwith #부스트코스

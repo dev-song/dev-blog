@@ -2,6 +2,13 @@
 title: "JavaScript 코딩 연습 - Long Repeat"
 pubDatetime: 2020-03-07T08:08:13+09:00
 description: "티스토리 아카이브"
+tags:
+  - "javascript"
+  - "코딩"
+  - "coding"
+  - "checkio"
+  - "coding practice"
+  - "코딩 연습"
 ---
 
 **문제 / 웹사이트**
@@ -117,4 +124,3 @@ function longRepeat(line) {
 }
 ```
 
-#javascript #코딩 #coding #checkio #coding practice #코딩 연습

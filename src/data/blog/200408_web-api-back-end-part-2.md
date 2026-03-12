@@ -2,6 +2,16 @@
 title: "Web API (Back End) ... Part 2"
 pubDatetime: 2020-04-08T14:48:17+09:00
 description: "티스토리 아카이브"
+tags:
+  - "웹 프로그래밍"
+  - "BACK END"
+  - "인터넷 강의"
+  - "백엔드"
+  - "내용 정리"
+  - "web api"
+  - "rest api"
+  - "edwith"
+  - "부스트코스"
 ---
 
 사이트: edwith
@@ -66,4 +76,3 @@ Web API 실습
     - .m2 폴더: 라이브러리 파일이 보관되는 곳
   - Eclipse 재시작 후 프로젝트 > Maven > Update Project
 
-#웹 프로그래밍 #BACK END #인터넷 강의 #백엔드 #내용 정리 #web api #rest api #edwith #부스트코스

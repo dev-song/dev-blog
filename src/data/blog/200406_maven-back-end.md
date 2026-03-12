@@ -2,6 +2,17 @@
 title: "Maven (Back End)"
 pubDatetime: 2020-04-06T11:27:39+09:00
 description: "티스토리 아카이브"
+tags:
+  - "Java"
+  - "maven"
+  - "웹 프로그래밍"
+  - "BACK END"
+  - "인터넷 강의"
+  - "웹 어플리케이션"
+  - "백엔드"
+  - "내용 정리"
+  - "edwith"
+  - "부스트코스"
 ---
 
 사이트: edwith
@@ -113,4 +124,3 @@ Maven 기본
   - url: 프로젝트의 웹사이트가 있을 경우 웹사이트의 URL
   - dependencies: 필요한 라이브러리를 의미하며, Maven 의존성 관리 기능의 핵심
 
-#Java #maven #웹 프로그래밍 #BACK END #인터넷 강의 #웹 어플리케이션 #백엔드 #내용 정리 #edwith #부스트코스

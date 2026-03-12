@@ -2,6 +2,17 @@
 title: "Spring JDBC (Back End) ... Part 2"
 pubDatetime: 2020-04-17T20:23:07+09:00
 description: "티스토리 아카이브"
+tags:
+  - "Java"
+  - "Spring"
+  - "Dao"
+  - "DataSource"
+  - "웹 프로그래밍"
+  - "dto"
+  - "ConnectionPool"
+  - "내용 정리"
+  - "edwith"
+  - "부스트코스"
 ---
 
 강의: [\[edwith 부스트코스\] 웹 프로그래밍](https://www.edwith.org/boostcourse-web/) 챕터 3, 웹 앱 개발: 예약서비스 1/4
@@ -110,4 +121,3 @@ Spring JDBC를 이용한 접속 구현
               - 종료에 문제가 발생할 경우 예외 처리
           - 정상적으로 작동하지 않을 경우 예외 처리
 
-#Java #Spring #Dao #DataSource #웹 프로그래밍 #dto #ConnectionPool #내용 정리 #edwith #부스트코스

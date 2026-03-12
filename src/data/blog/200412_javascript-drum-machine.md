@@ -2,6 +2,12 @@
 title: "JavaScript 드럼 재생기"
 pubDatetime: 2020-04-12T15:52:35+09:00
 description: "티스토리 아카이브"
+tags:
+  - "HTML"
+  - "자바스크립트"
+  - "javascript"
+  - "튜토리얼"
+  - "javascript30"
 ---
 
 튜토리얼 출처: [JavaScript30](https://javascript30.com/)
@@ -38,6 +44,3 @@ element.addEventListener('transitionend', event handler);
 
 [GitHub 저장소 링크](https://github.com/dev-song/_home/tree/master/projects/JavaScript30/Day%2001/tutorial-JavaScript-Drum-Kit)
 
-  
-
-#HTML #자바스크립트 #javascript #튜토리얼 #javascript30

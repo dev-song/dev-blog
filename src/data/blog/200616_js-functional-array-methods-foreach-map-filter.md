@@ -2,6 +2,14 @@
 title: "[JS] 배열의 함수형 메소드, forEach, map, filter"
 pubDatetime: 2020-06-16T23:03:26+09:00
 description: "티스토리 아카이브"
+tags:
+  - "javascript"
+  - "Filter"
+  - "map"
+  - "foreach"
+  - "front end"
+  - "immutable"
+  - "함수형 프로그래밍"
 ---
 
 강의: [\[edwith 부스트코스\] 웹 프로그래밍](https://www.edwith.org/boostcourse-web/) 챕터 4, 웹 앱 개발: 예약서비스 2/4
@@ -105,4 +113,3 @@ map 메서드를 사용하면 원본인 data 배열은 그대로 둔 채, 새로
 
 ---
 
-#javascript #Filter #map #foreach #front end #immutable #함수형 프로그래밍

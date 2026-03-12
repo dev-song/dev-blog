@@ -2,6 +2,17 @@
 title: "Spring MVC (Back End) ... Part 1"
 pubDatetime: 2020-04-22T18:41:12+09:00
 description: "티스토리 아카이브"
+tags:
+  - "Java"
+  - "Spring"
+  - "Model"
+  - "View"
+  - "MVC"
+  - "controller"
+  - "웹 프로그래밍"
+  - "내용 정리"
+  - "edwith"
+  - "부스트코스"
 ---
 
 강의: [\[edwith 부스트코스\] 웹 프로그래밍](https://www.edwith.org/boostcourse-web/) 챕터 3, 웹 앱 개발: 예약서비스 1/4
@@ -62,4 +73,3 @@ Spring MVC란?
   - Spring Module 중 Web Module이 Model 2 아키텍쳐의 발전형태 중 하나이며, Spring MVC라고 불림
   - ![](./images/62-3.png)
 
-#Java #Spring #Model #View #MVC #controller #웹 프로그래밍 #내용 정리 #edwith #부스트코스

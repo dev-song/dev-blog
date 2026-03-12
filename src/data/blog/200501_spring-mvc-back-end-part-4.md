@@ -2,6 +2,16 @@
 title: "Spring MVC (Back End) ... Part 4"
 pubDatetime: 2020-05-01T12:30:52+09:00
 description: "티스토리 아카이브"
+tags:
+  - "Java"
+  - "Spring"
+  - "MVC"
+  - "웹 프로그래밍"
+  - "backend"
+  - "백엔드"
+  - "내용 정리"
+  - "edwith"
+  - "부스트코스"
 ---
 
 강의: [\[edwith 부스트코스\] 웹 프로그래밍](https://www.edwith.org/boostcourse-web/) 챕터 3, 웹 앱 개발: 예약서비스 1/4
@@ -265,4 +275,3 @@ Spring MVC 실습 - 웹페이지 3 작성
   - 단점
     - 유지보수나 협업에서 개발자 간 의견교환이 어려울 수 있음
 
-#Java #Spring #MVC #웹 프로그래밍 #backend #백엔드 #내용 정리 #edwith #부스트코스

@@ -2,6 +2,17 @@
 title: "HTML5 캔버스로 무지개빛 선 그리기"
 pubDatetime: 2020-04-19T21:39:21+09:00
 description: "티스토리 아카이브"
+tags:
+  - "HTML"
+  - "자바스크립트"
+  - "javascript"
+  - "튜토리얼"
+  - "Canvas"
+  - "CONTEXT"
+  - "HSL"
+  - "javascript30"
+  - "destructuring assignment"
+  - "구조 분해 할당"
 ---
 
 튜토리얼 출처: [JavaScript30](https://javascript30.com/)
@@ -54,4 +65,3 @@ HSL 색상 체계
 
 [GitHub 저장소 링크](https://github.com/dev-song/_home/tree/master/projects/JavaScript30/Day%2008/tutorial-Fun-with-HTML5-Canvas)
 
-#HTML #자바스크립트 #javascript #튜토리얼 #Canvas #CONTEXT #HSL #javascript30 #destructuring assignment #구조 분해 할당

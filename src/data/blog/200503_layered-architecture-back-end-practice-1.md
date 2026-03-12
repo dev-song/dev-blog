@@ -2,6 +2,16 @@
 title: "Layered Architecture (Back End) ... 실습 (1)"
 pubDatetime: 2020-05-03T23:27:41+09:00
 description: "티스토리 아카이브"
+tags:
+  - "Java"
+  - "웹 프로그래밍"
+  - "backend"
+  - "백엔드"
+  - "내용 정리"
+  - "edwith"
+  - "부스트코스"
+  - "레이어드 아키텍쳐"
+  - "Layered Architecture"
 ---
 
 강의: [\[edwith 부스트코스\] 웹 프로그래밍](https://www.edwith.org/boostcourse-web/) 챕터 3, 웹 앱 개발: 예약서비스 1/4
@@ -103,4 +113,3 @@ description: "티스토리 아카이브"
 
 ---
 
-#Java #웹 프로그래밍 #backend #백엔드 #내용 정리 #edwith #부스트코스 #레이어드 아키텍쳐 #Layered Architecture

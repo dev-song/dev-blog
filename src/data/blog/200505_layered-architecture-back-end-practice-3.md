@@ -2,6 +2,16 @@
 title: "Layered Architecture (Back End) ... 실습 (3)"
 pubDatetime: 2020-05-05T17:45:40+09:00
 description: "티스토리 아카이브"
+tags:
+  - "Java"
+  - "웹 프로그래밍"
+  - "backend"
+  - "백엔드"
+  - "내용 정리"
+  - "edwith"
+  - "부스트코스"
+  - "레이어드 아키텍쳐"
+  - "Layered Architecture"
 ---
 
 강의: [\[edwith 부스트코스\] 웹 프로그래밍](https://www.edwith.org/boostcourse-web/) 챕터 3, 웹 앱 개발: 예약서비스 1/4
@@ -115,4 +125,3 @@ if 구문을 통해 반드시 중간에 예외가 발생하도록 설정했다.
 
 ---
 
-#Java #웹 프로그래밍 #backend #백엔드 #내용 정리 #edwith #부스트코스 #레이어드 아키텍쳐 #Layered Architecture

@@ -2,6 +2,16 @@
 title: "JSP (Back End) ... Part 1"
 pubDatetime: 2020-04-03T13:50:56+09:00
 description: "티스토리 아카이브"
+tags:
+  - "Java"
+  - "jsp"
+  - "자바"
+  - "servlet"
+  - "웹 프로그래밍"
+  - "인터넷 강의"
+  - "내용 정리"
+  - "edwith"
+  - "부스트코스"
 ---
 
 사이트: edwith
@@ -67,6 +77,3 @@ JSP의 Life cycle
     *   jspService( ): HTML 코드 내 <% %> 형태의 지시문 작성
     *   jspInit( ), jspDestroy( ): <%! public void jspInit( ), jspDestroy( ) { Java 코드 } %> 형태의 선언문 작성
 
-  
-
-#Java #jsp #자바 #servlet #웹 프로그래밍 #인터넷 강의 #내용 정리 #edwith #부스트코스

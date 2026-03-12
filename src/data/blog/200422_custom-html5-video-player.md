@@ -2,6 +2,15 @@
 title: "커스텀 HTML5 동영상 플레이어"
 pubDatetime: 2020-04-22T15:12:04+09:00
 description: "티스토리 아카이브"
+tags:
+  - "자바스크립트"
+  - "javascript"
+  - "Video"
+  - "play"
+  - "튜토리얼"
+  - "pause"
+  - "html5"
+  - "javascript30"
 ---
 
 튜토리얼 출처: [JavaScript30](https://javascript30.com/)
@@ -30,6 +39,3 @@ JavaScript로 HTML Video 요소 다루기
 
 [GitHub 저장소 링크](https://github.com/dev-song/_home/tree/master/projects/JavaScript30/Day%2011/tutorial-Custom-Video-Player)
 
-  
-
-#자바스크립트 #javascript #Video #play #튜토리얼 #pause #html5 #javascript30

@@ -2,6 +2,17 @@
 title: "Spring MVC (Back End) ... Part 2"
 pubDatetime: 2020-04-22T19:59:12+09:00
 description: "티스토리 아카이브"
+tags:
+  - "Java"
+  - "Spring"
+  - "Model"
+  - "View"
+  - "MVC"
+  - "controller"
+  - "웹 프로그래밍"
+  - "내용 정리"
+  - "edwith"
+  - "부스트코스"
 ---
 
 강의: [\[edwith 부스트코스\] 웹 프로그래밍](https://www.edwith.org/boostcourse-web/) 챕터 3, 웹 앱 개발: 예약서비스 1/4
@@ -141,4 +152,3 @@ Spring MVC 구성요소
       - 인터셉터의 afterCompletion( ) 메서드가 실행되면 발생
     - 요청 처리 종료
 
-#Java #Spring #Model #View #MVC #controller #웹 프로그래밍 #내용 정리 #edwith #부스트코스

@@ -2,6 +2,17 @@
 title: "Spring JDBC (Back End) ... Part 3"
 pubDatetime: 2020-04-17T23:40:48+09:00
 description: "티스토리 아카이브"
+tags:
+  - "Java"
+  - "SQL"
+  - "Spring"
+  - "jdbc"
+  - "Dao"
+  - "웹 프로그래밍"
+  - "dto"
+  - "내용 정리"
+  - "edwith"
+  - "부스트코스"
 ---
 
 강의: [\[edwith 부스트코스\] 웹 프로그래밍](https://www.edwith.org/boostcourse-web/) 챕터 3, 웹 앱 개발: 예약서비스 1/4
@@ -77,4 +88,3 @@ Spring JDBC를 이용해 SELECT 쿼리문 실행하기
 - 쿼리문에 ? 대신 구체적인 매개변수명을 사용하여,  
   쿼리문이 별도의 클래스나 파일로 저장될 경우에 일어날 수 있는 잘못된 순서로 값을 전달하는 실수를 줄일 수 있음
 
-#Java #SQL #Spring #jdbc #Dao #웹 프로그래밍 #dto #내용 정리 #edwith #부스트코스

@@ -2,6 +2,13 @@
 title: "JavaScript .reduce( ) 메서드로 시간 더하기"
 pubDatetime: 2020-05-01T15:14:54+09:00
 description: "티스토리 아카이브"
+tags:
+  - "자바스크립트"
+  - "javascript"
+  - "튜토리얼"
+  - "map"
+  - "Reduce"
+  - "javascript30"
 ---
 
 튜토리얼 출처: [JavaScript30](https://javascript30.com/)
@@ -83,4 +90,3 @@ callback 함수의 형태는 다양하나, 다음과 같은 형태라면 좀 더
 
 ---
 
-#자바스크립트 #javascript #튜토리얼 #map #Reduce #javascript30

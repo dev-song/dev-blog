@@ -2,6 +2,17 @@
 title: "[JS] 한 시대를 풍미한 jQuery, 그리고 프레임워크의 대두"
 pubDatetime: 2020-07-07T22:04:25+09:00
 description: "티스토리 아카이브"
+tags:
+  - "javascript"
+  - "jQuery"
+  - "Framework"
+  - "Library"
+  - "라이브러리"
+  - "프레임워크"
+  - "front end"
+  - "VUE"
+  - "React"
+  - "angular"
 ---
 
 강의: [\[edwith 부스트코스\] 웹 프로그래밍](https://www.edwith.org/boostcourse-web/) 챕터 4, 웹 앱 개발: 예약서비스 2/4
@@ -141,6 +152,3 @@ jQuery가 사용된 레거시 코드를 유지보수할 땐 주의해야 할 점
 
 * * *
 
-  
-
-#javascript #jQuery #Framework #Library #라이브러리 #프레임워크 #front end #VUE #React #angular

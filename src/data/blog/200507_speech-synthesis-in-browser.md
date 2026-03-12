@@ -2,6 +2,15 @@
 title: "브라우저로 음성 합성하기"
 pubDatetime: 2020-05-07T22:27:19+09:00
 description: "티스토리 아카이브"
+tags:
+  - "자바스크립트"
+  - "javascript"
+  - "튜토리얼"
+  - "bind"
+  - "음성 합성"
+  - "javascript30"
+  - "SpeechSynthesis"
+  - "SpeechSynthesisUtterance"
 ---
 
 튜토리얼 출처: [JavaScript30](https://javascript30.com/)
@@ -78,4 +87,3 @@ Function.prototype.bind( ) 메서드 (각주: 참고자료: [Function.prototype.
 
 ---
 
-#자바스크립트 #javascript #튜토리얼 #bind #음성 합성 #javascript30 #SpeechSynthesis #SpeechSynthesisUtterance

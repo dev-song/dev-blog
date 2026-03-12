@@ -2,6 +2,16 @@
 title: "JavaScript - Array & Object (Front End)"
 pubDatetime: 2020-04-10T20:39:34+09:00
 description: "티스토리 아카이브"
+tags:
+  - "자바스크립트"
+  - "javascript"
+  - "배열"
+  - "객체"
+  - "웹 프로그래밍"
+  - "인터넷 강의"
+  - "내용 정리"
+  - "edwith"
+  - "부스트코스"
 ---
 
 강의: [\[edwith 부스트코스\] 웹 프로그래밍](https://www.edwith.org/boostcourse-web/) 챕터 3, 웹 앱 개발: 예약서비스 1/4
@@ -90,4 +100,3 @@ JavaScript 객체
       - ![](./images/37-5.png)
       - JSON 구조가 중첩되어 있으므로 재귀함수 형태를 활용
 
-#자바스크립트 #javascript #배열 #객체 #웹 프로그래밍 #인터넷 강의 #내용 정리 #edwith #부스트코스

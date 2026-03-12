@@ -2,6 +2,16 @@
 title: "AJAX 검색어 자동완성"
 pubDatetime: 2020-04-17T16:32:40+09:00
 description: "티스토리 아카이브"
+tags:
+  - "자바스크립트"
+  - "ajax"
+  - "javascript"
+  - "정규표현식"
+  - "regexp"
+  - "튜토리얼"
+  - "Join"
+  - "fetch"
+  - "javascript30"
 ---
 
 튜토리얼 출처: [JavaScript30](https://javascript30.com/)
@@ -53,4 +63,3 @@ Array.prototype.join( ) 메서드의 특징
 
 [GitHub 저장소 링크](https://github.com/dev-song/_home/tree/master/projects/JavaScript30/Day%2006/tutorial-Type-Ahead)
 
-#자바스크립트 #ajax #javascript #정규표현식 #regexp #튜토리얼 #Join #fetch #javascript30

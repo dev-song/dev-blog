@@ -2,6 +2,16 @@
 title: "JDBC (Back End) ... Part 1"
 pubDatetime: 2020-04-06T18:32:49+09:00
 description: "티스토리 아카이브"
+tags:
+  - "jdbc"
+  - "웹 프로그래밍"
+  - "BACK END"
+  - "프레임워크"
+  - "인터넷 강의"
+  - "백엔드"
+  - "내용 정리"
+  - "edwith"
+  - "부스트코스"
 ---
 
 사이트: edwith
@@ -86,4 +96,3 @@ JDBC(Java Database Connectivity)란?
   - 부스트코스에서는 Spring JDBC를 사용
   - 그러나 JDBC의 기본적인 실행 원리를 알면 프레임워크에서 문제가 발생했을 때 더 적절하게 대처할 수 있음
 
-#jdbc #웹 프로그래밍 #BACK END #프레임워크 #인터넷 강의 #백엔드 #내용 정리 #edwith #부스트코스

@@ -2,6 +2,16 @@
 title: "Java 개발환경 설정 (Back End)"
 pubDatetime: 2020-03-31T11:06:12+09:00
 description: "티스토리 아카이브"
+tags:
+  - "Java"
+  - "eclipse"
+  - "servlet"
+  - "jdk"
+  - "웹 프로그래밍"
+  - "인터넷 강의"
+  - "내용 정리"
+  - "edwith"
+  - "부스트코스"
 ---
 
 사이트: edwith
@@ -138,6 +148,3 @@ Servlet의 특징
 6.  서버가 해당 Servlet의 doGET() 메서드에서 코드를 실행한 결과를 클라이언트에 응답으로 보냄
 7.  사용자의 브라우저가 서버에서 받은 코드를 해석하여 화면에 표시
 
-  
-
-#Java #eclipse #servlet #jdk #웹 프로그래밍 #인터넷 강의 #내용 정리 #edwith #부스트코스

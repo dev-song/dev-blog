@@ -2,6 +2,17 @@
 title: "JavaScript (Front End) ... Part 2"
 pubDatetime: 2020-04-02T13:51:57+09:00
 description: "티스토리 아카이브"
+tags:
+  - "자바스크립트"
+  - "javascript"
+  - "함수"
+  - "웹 프로그래밍"
+  - "인터넷 강의"
+  - "프론트엔드"
+  - "front end"
+  - "내용 정리"
+  - "edwith"
+  - "부스트코스"
 ---
 
 사이트: edwith
@@ -78,6 +89,3 @@ JavaScript의 함수
     *   RangeError가 발생한 경우, 의도한 것이 아니라면 로직을 잘못 구현한 것
         *   함수가 계속적으로 호출되는 상황이기 때문이며, 보통 '무한 루프에 빠졌다'고도 표현됨
 
-  
-
-#자바스크립트 #javascript #함수 #웹 프로그래밍 #인터넷 강의 #프론트엔드 #front end #내용 정리 #edwith #부스트코스

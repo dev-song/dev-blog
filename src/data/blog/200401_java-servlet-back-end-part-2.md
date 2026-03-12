@@ -2,6 +2,16 @@
 title: "Java Servlet (Back End) ... Part 2"
 pubDatetime: 2020-04-01T23:56:48+09:00
 description: "티스토리 아카이브"
+tags:
+  - "Java"
+  - "servlet"
+  - "웹 프로그래밍"
+  - "인터넷 강의"
+  - "내용 정리"
+  - "HttpServletRequest"
+  - "HttpServletResponse"
+  - "edwith"
+  - "부스트코스"
 ---
 
 사이트: edwith
@@ -115,4 +125,3 @@ HttpServletRequest와 HttpServletResponse
     - request.getRemoteAddr( ): 클라이언트의 주소 값을 반환하는 메서드
       - 로컬 컴퓨터로 접속할 경우 운영체제에 따라 출력되는 값의 형태가 달라짐
 
-#Java #servlet #웹 프로그래밍 #인터넷 강의 #내용 정리 #HttpServletRequest #HttpServletResponse #edwith #부스트코스

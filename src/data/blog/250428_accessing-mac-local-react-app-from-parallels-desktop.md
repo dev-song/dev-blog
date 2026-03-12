@@ -2,6 +2,15 @@
 title: "Parallels Desktop에서 Mac의 로컬 React 앱에 접근하기"
 pubDatetime: 2025-04-28T16:08:20+09:00
 description: "티스토리 아카이브"
+tags:
+  - "Parallels"
+  - "Vite"
+  - "macos"
+  - "Parallels Desktop"
+  - "localhost"
+  - "React"
+  - "cors"
+  - "로컬 환경"
 ---
 
 회사에서 열심히 개발하다 보니 오랜만에 포스팅을 하네요.  
@@ -145,6 +154,3 @@ public class CorsConfig implements WebMvcConfigurer {
 - Windows (Parallels Desktop): Windows 11 Pro
 ```
 
-  
-
-#Parallels #Vite #macos #Parallels Desktop #localhost #React #cors #로컬 환경

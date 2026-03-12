@@ -2,6 +2,16 @@
 title: "JavaScript localStorage와 이벤트 위임"
 pubDatetime: 2020-04-27T16:30:19+09:00
 description: "티스토리 아카이브"
+tags:
+  - "자바스크립트"
+  - "javascript"
+  - "튜토리얼"
+  - "SUBMIT"
+  - "localStorage"
+  - "javascript30"
+  - "Event Delegation"
+  - "web storage api"
+  - "이벤트 위임"
 ---
 
 튜토리얼 출처: [JavaScript30](https://javascript30.com/)
@@ -74,4 +84,3 @@ Storage 객체를 활용해 페이지 새로고침과 상관없이 값 저장하
 
 [GitHub 저장소 링크](https://github.com/dev-song/_home/tree/master/projects/JavaScript30/Day%2015/tutorial-LocalStorage)
 
-#자바스크립트 #javascript #튜토리얼 #SUBMIT #localStorage #javascript30 #Event Delegation #web storage api #이벤트 위임

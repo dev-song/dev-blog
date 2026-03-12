@@ -2,6 +2,16 @@
 title: "Web API (Back End) ... Part 1"
 pubDatetime: 2020-04-07T21:20:54+09:00
 description: "티스토리 아카이브"
+tags:
+  - "웹 프로그래밍"
+  - "BACK END"
+  - "인터넷 강의"
+  - "백엔드"
+  - "내용 정리"
+  - "web api"
+  - "rest api"
+  - "edwith"
+  - "부스트코스"
 ---
 
 사이트: edwith
@@ -83,4 +93,3 @@ Web API란?
   - 500번대: 서버로 인한 오류
     - ![](./images/33-3.png)
 
-#웹 프로그래밍 #BACK END #인터넷 강의 #백엔드 #내용 정리 #web api #rest api #edwith #부스트코스

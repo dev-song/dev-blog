@@ -2,6 +2,16 @@
 title: "HTML과 CSS (Front End)"
 pubDatetime: 2020-03-31T00:55:21+09:00
 description: "티스토리 아카이브"
+tags:
+  - "HTML"
+  - "css"
+  - "웹 프로그래밍"
+  - "인터넷 강의"
+  - "프론트엔드"
+  - "front end"
+  - "내용 정리"
+  - "edwith"
+  - "부스트코스"
 ---
 
 사이트: edwith
@@ -264,6 +274,3 @@ HTML, CSS 디버깅
     *   Sources 탭
         *   웹페이지를 이루고 있는 파일과 해당 파일의 소스 코드를 확인할 수 있음
 
-  
-
-#HTML #css #웹 프로그래밍 #인터넷 강의 #프론트엔드 #front end #내용 정리 #edwith #부스트코스

@@ -2,6 +2,15 @@
 title: "SQL Join 알아보기 ... 기본 유형 4가지"
 pubDatetime: 2020-05-30T18:44:18+09:00
 description: "티스토리 아카이브"
+tags:
+  - "SQL"
+  - "Join"
+  - "RDBMS"
+  - "left join"
+  - "right join"
+  - "inner join"
+  - "FULL JOIN"
+  - "관계형 데이터베이스"
 ---
 
 SQL Join 명령문에 대해 간단하게 설명한 [SQL Joins Explained](https://www.sql-join.com/sql-join-types)를 번역한 글입니다.
@@ -512,4 +521,3 @@ NULL
 
 ---
 
-#SQL #Join #RDBMS #left join #right join #inner join #FULL JOIN #관계형 데이터베이스

@@ -2,6 +2,14 @@
 title: "JavaScript 코딩 연습 - K번째 수"
 pubDatetime: 2020-03-17T17:07:33+09:00
 description: "티스토리 아카이브"
+tags:
+  - "자바스크립트"
+  - "javascript"
+  - "코딩"
+  - "coding"
+  - "프로그래머스"
+  - "coding practice"
+  - "코딩 연습"
 ---
 
 **문제 / 웹사이트**
@@ -68,4 +76,3 @@ function solution(array, commands) {
 }
 ```
 
-#자바스크립트 #javascript #코딩 #coding #프로그래머스 #coding practice #코딩 연습

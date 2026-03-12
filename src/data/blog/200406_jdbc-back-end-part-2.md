@@ -2,6 +2,16 @@
 title: "JDBC (Back End) ... Part 2"
 pubDatetime: 2020-04-06T18:32:59+09:00
 description: "티스토리 아카이브"
+tags:
+  - "jdbc"
+  - "웹 프로그래밍"
+  - "BACK END"
+  - "프레임워크"
+  - "인터넷 강의"
+  - "백엔드"
+  - "내용 정리"
+  - "edwith"
+  - "부스트코스"
 ---
 
 사이트: edwith
@@ -102,4 +112,3 @@ JDBC 실습하기 (1) - 데이터 반환
         *   getRole( ) 메서드를 조회하고 싶은 role\_id를 인자로 실행
         *   getRole( ) 메서드의 반환된 결과값을 Role 타입의 변수에 저장한 뒤 출력
 
-#jdbc #웹 프로그래밍 #BACK END #프레임워크 #인터넷 강의 #백엔드 #내용 정리 #edwith #부스트코스

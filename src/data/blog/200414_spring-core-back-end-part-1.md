@@ -2,6 +2,16 @@
 title: "Spring Core (Back End) ... Part 1"
 pubDatetime: 2020-04-14T18:38:34+09:00
 description: "티스토리 아카이브"
+tags:
+  - "Java"
+  - "Spring"
+  - "IOC"
+  - "di"
+  - "Framework"
+  - "웹 프로그래밍"
+  - "내용 정리"
+  - "edwith"
+  - "부스트코스"
 ---
 
 강의: [\[edwith 부스트코스\] 웹 프로그래밍](https://www.edwith.org/boostcourse-web/) 챕터 3, 웹 앱 개발: 예약서비스 1/4
@@ -101,4 +111,3 @@ Spring IoC/DI 컨테이너
       - BeanFactoryPostProcessor: 설정, metadata 등을 커스터마이징할 수 있게 해줌
     - 국제화 처리, 어플리케이션 이벤트 등을 처리할 수 있음
 
-#Java #Spring #IOC #di #Framework #웹 프로그래밍 #내용 정리 #edwith #부스트코스

@@ -2,6 +2,15 @@
 title: "Tab UI (Front End)"
 pubDatetime: 2020-04-14T12:52:19+09:00
 description: "티스토리 아카이브"
+tags:
+  - "ajax"
+  - "템플릿"
+  - "JSON"
+  - "웹 프로그래밍"
+  - "내용 정리"
+  - "edwith"
+  - "부스트코스"
+  - "Tab UI"
 ---
 
 강의: [\[edwith 부스트코스\] 웹 프로그래밍](https://www.edwith.org/boostcourse-web/) 챕터 3, 웹 앱 개발: 예약서비스 1/4
@@ -44,4 +53,3 @@ Tab UI에 생명 불어넣기
         - data가 true일 경우: data의 값들로 템플릿을 만들고 content 섹션의 innerHTML 변경
       - ajax 함수 내 서버로부터 전달받은 JSON을 data에 저장하는 명령문 설정
 
-#ajax #템플릿 #JSON #웹 프로그래밍 #내용 정리 #edwith #부스트코스 #Tab UI

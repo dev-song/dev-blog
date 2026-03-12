@@ -2,6 +2,17 @@
 title: "AJAX (Front End)"
 pubDatetime: 2020-04-12T17:22:41+09:00
 description: "티스토리 아카이브"
+tags:
+  - "ajax"
+  - "XMLHttpRequest"
+  - "웹 프로그래밍"
+  - "Cross Domain"
+  - "개발자도구"
+  - "jsonp"
+  - "내용 정리"
+  - "cors"
+  - "edwith"
+  - "부스트코스"
 ---
 
 강의:[\[edwith 부스트코스\] 웹 프로그래밍](https://www.edwith.org/boostcourse-web/)챕터 3, 웹 앱 개발: 예약서비스 1/4
@@ -61,4 +72,3 @@ AJAX 응답 처리와 비동기
   - 크기, 타입 등 기타 요청한 파일에 대한 다양한 정보를 확인할 수 있음
 - 참고자료: [Chrome DevTools | Tools for Web Developers](https://developers.google.com/web/tools/chrome-devtools/?hl=ko#network)
 
-#ajax #XMLHttpRequest #웹 프로그래밍 #Cross Domain #개발자도구 #jsonp #내용 정리 #cors #edwith #부스트코스

@@ -2,6 +2,17 @@
 title: "JSP (Back End) ... Part 2"
 pubDatetime: 2020-04-03T14:29:35+09:00
 description: "티스토리 아카이브"
+tags:
+  - "Java"
+  - "jsp"
+  - "자바"
+  - "servlet"
+  - "웹 프로그래밍"
+  - "인터넷 강의"
+  - "내장객체"
+  - "내용 정리"
+  - "edwith"
+  - "부스트코스"
 ---
 
 사이트: edwith
@@ -62,6 +73,3 @@ JSP 내장객체
         *   선언문에서 선언된 소스 코드는 Servlet의 \_jspService( ) 메서드의 외부로 변환됨
         *   내장객체는 \_jspService( ) 메서드 내부에서 선언된 지역변수이므로, 메서드 외부에서는 사용할 수 없는 것
 
-  
-
-#Java #jsp #자바 #servlet #웹 프로그래밍 #인터넷 강의 #내장객체 #내용 정리 #edwith #부스트코스

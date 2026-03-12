@@ -2,6 +2,15 @@
 title: "JavaScript 데이터 참조 vs 복사"
 pubDatetime: 2020-04-26T23:04:55+09:00
 description: "티스토리 아카이브"
+tags:
+  - "자바스크립트"
+  - "javascript"
+  - "튜토리얼"
+  - "데이터 복사"
+  - "javascript30"
+  - "데이터 참조"
+  - "deep clone"
+  - "딥 클론"
 ---
 
 튜토리얼 출처: [JavaScript30](https://javascript30.com/)
@@ -71,4 +80,3 @@ description: "티스토리 아카이브"
 
 [GitHub 저장소 링크](https://github.com/dev-song/_home/tree/master/projects/JavaScript30/Day%2014/tutorial-JavaScript-References-VS-Copying)
 
-#자바스크립트 #javascript #튜토리얼 #데이터 복사 #javascript30 #데이터 참조 #deep clone #딥 클론

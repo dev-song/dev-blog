@@ -2,6 +2,13 @@
 title: "DOM API (Front End)"
 pubDatetime: 2020-04-11T20:58:22+09:00
 description: "티스토리 아카이브"
+tags:
+  - "API"
+  - "DOM"
+  - "웹 프로그래밍"
+  - "내용 정리"
+  - "edwith"
+  - "부스트코스"
 ---
 
 강의: [\[edwith 부스트코스\] 웹 프로그래밍](https://www.edwith.org/boostcourse-web/) 챕터 3, 웹 앱 개발: 예약서비스 1/4
@@ -75,6 +82,3 @@ DOM API 실습
 *   **※ Polyfill: 특정 기능을 지원하지 않는 이전 버전의 브라우저에서 최신 기능을 제공하는 데 필요한 코드**
     *   참고자료: [Polyfill - 용어 사전 | MDN](https://developer.mozilla.org/ko/docs/Glossary/Polyfill)
 
-  
-
-#API #DOM #웹 프로그래밍 #내용 정리 #edwith #부스트코스
