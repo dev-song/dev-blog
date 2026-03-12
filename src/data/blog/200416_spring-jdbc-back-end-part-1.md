@@ -1,7 +1,7 @@
 ---
 title: "Spring JDBC (Back End) ... Part 1"
 pubDatetime: 2020-04-16T21:24:31+09:00
-description: "티스토리 아카이브"
+description: "Spring JDBC와 JdbcTemplate을 소개하고, SELECT·INSERT·UPDATE·DELETE 예시 코드 및 NamedParameterJdbcTemplate 등 기타 접근 방법을 정리한 노트"
 tags:
   - "Java"
   - "Spring"

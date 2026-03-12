@@ -1,7 +1,7 @@
 ---
 title: "JavaScript localStorage와 이벤트 위임"
 pubDatetime: 2020-04-27T16:30:19+09:00
-description: "티스토리 아카이브"
+description: "localStorage로 데이터를 영구 저장하고, 이벤트 위임으로 동적 요소에 이벤트를 연동하는 방법을 다룹니다. submit 이벤트 처리와 preventDefault 활용법도 포함합니다"
 tags:
   - "자바스크립트"
   - "javascript"

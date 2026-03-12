@@ -1,7 +1,7 @@
 ---
 title: "JavaScript 코딩 연습 - 완주하지 못한 선수"
 pubDatetime: 2020-03-13T23:55:05+09:00
-description: "티스토리 아카이브"
+description: "마라톤 참가자 중 완주하지 못한 단 한 명을 찾는 프로그래머스 Level 1 해시 문제 풀이"
 tags:
   - "자바스크립트"
   - "javascript"

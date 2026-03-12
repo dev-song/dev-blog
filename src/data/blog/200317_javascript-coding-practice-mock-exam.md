@@ -1,7 +1,7 @@
 ---
 title: "JavaScript 코딩 연습 - 모의고사"
 pubDatetime: 2020-03-17T16:29:36+09:00
-description: "티스토리 아카이브"
+description: "정해진 패턴대로 찍기 전략을 쓰는 3명의 수포자 중 가장 많은 문제를 맞힌 학생을 찾는 프로그래머스 문제 풀이"
 tags:
   - "자바스크립트"
   - "javascript"

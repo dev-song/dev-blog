@@ -1,7 +1,7 @@
 ---
 title: "브라우저로 웹캠 화면 갖고 놀기"
 pubDatetime: 2020-05-03T17:15:08+09:00
-description: "티스토리 아카이브"
+description: "브라우저에서 웹캠 화면을 표시하고 캡처·다운로드하는 방법을 소개합니다. MediaDevices.getUserMedia() API와 Canvas를 활용한 이미지 필터 효과 구현을 다룹니다"
 tags:
   - "웹캠"
   - "자바스크립트"

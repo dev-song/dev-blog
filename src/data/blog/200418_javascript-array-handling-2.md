@@ -1,7 +1,7 @@
 ---
 title: "JavaScript 배열 다루기 2"
 pubDatetime: 2020-04-18T21:06:52+09:00
-description: "티스토리 아카이브"
+description: "JavaScript 배열 메서드 find(), findIndex(), slice()의 특징을 정리합니다. 원본 배열을 변경하지 않고 특정 인덱스의 원소를 제거하는 방법을 소개합니다"
 tags:
   - "자바스크립트"
   - "javascript"

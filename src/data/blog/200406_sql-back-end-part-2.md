@@ -1,7 +1,7 @@
 ---
 title: "SQL (Back End) ... Part 2"
 pubDatetime: 2020-04-06T01:19:34+09:00
-description: "티스토리 아카이브"
+description: "MySQL의 데이터 타입 종류와 DDL(CREATE, ALTER, DROP TABLE) 구문 사용법, CHAR·VARCHAR 차이 등을 정리한 노트"
 tags:
   - "SQL"
   - "웹 프로그래밍"

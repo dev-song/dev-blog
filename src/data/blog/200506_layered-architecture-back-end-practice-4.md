@@ -1,7 +1,7 @@
 ---
 title: "Layered Architecture (Back End) ... 실습 (4)"
 pubDatetime: 2020-05-06T16:36:01+09:00
-description: "티스토리 아카이브"
+description: "방명록 프로젝트의 컨트롤러 구현 과정을 다룹니다. GET /list와 POST /write 요청을 처리하는 메서드 작성, @RequestParam 활용, ModelMap으로 JSP에 값 전달하는 방법을 정리합니다"
 tags:
   - "Java"
   - "웹 프로그래밍"

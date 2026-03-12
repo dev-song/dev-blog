@@ -1,7 +1,7 @@
 ---
 title: "[JS] 배열의 함수형 메소드, forEach, map, filter"
 pubDatetime: 2020-06-16T23:03:26+09:00
-description: "티스토리 아카이브"
+description: "JavaScript 배열의 함수형 메서드 forEach, map, filter의 사용법과 불변성(immutable) 개념을 예제로 설명한다"
 tags:
   - "javascript"
   - "Filter"

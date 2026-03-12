@@ -1,7 +1,7 @@
 ---
 title: "JavaScript 이벤트 버블링과 이벤트 캡쳐"
 pubDatetime: 2020-05-09T15:30:24+09:00
-description: "티스토리 아카이브"
+description: "JavaScript 이벤트 버블링과 캡처의 개념, 이벤트 전파를 제어하는 방법을 예제와 함께 설명한다"
 tags:
   - "자바스크립트"
   - "javascript"

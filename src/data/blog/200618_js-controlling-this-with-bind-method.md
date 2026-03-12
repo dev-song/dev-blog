@@ -1,7 +1,7 @@
 ---
 title: "[JS] bind 메서드를 활용한 this 제어"
 pubDatetime: 2020-06-18T18:18:01+09:00
-description: "티스토리 아카이브"
+description: "setTimeout 등 비동기 환경에서 this가 의도치 않게 바뀌는 문제를 bind 메서드와 화살표 함수로 해결하는 방법을 설명한다"
 tags:
   - "javascript"
   - "This"

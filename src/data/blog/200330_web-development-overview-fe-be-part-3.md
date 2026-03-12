@@ -1,7 +1,7 @@
 ---
 title: "웹 개발의 이해 (FE/BE) - Part 3"
 pubDatetime: 2020-03-30T15:51:20+09:00
-description: "티스토리 아카이브"
+description: "edwith 부스트코스 강의 정리 - 웹 서버, DBMS, 미들웨어, WAS의 개념과 클라이언트/서버 구조 설명"
 tags:
   - "was"
   - "DBMS"

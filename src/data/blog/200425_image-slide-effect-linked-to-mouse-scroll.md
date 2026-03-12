@@ -1,7 +1,7 @@
 ---
 title: "이미지 슬라이드 효과 마우스 스크롤과 연동시키기"
 pubDatetime: 2020-04-25T23:16:14+09:00
-description: "티스토리 아카이브"
+description: "마우스 스크롤 위치에 따라 이미지가 슬라이드되어 나타나는 효과를 구현합니다. window.scrollY와 setTimeout을 활용한 디바운싱 기법을 소개합니다"
 tags:
   - "자바스크립트"
   - "javascript"

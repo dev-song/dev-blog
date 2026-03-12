@@ -1,7 +1,7 @@
 ---
 title: "Spring JDBC (Back End) ... Part 4"
 pubDatetime: 2020-04-19T22:23:07+09:00
-description: "티스토리 아카이브"
+description: "Spring JDBC를 이용해 INSERT와 UPDATE 쿼리문을 실행하는 방법을 다룹니다. SimpleJdbcInsert 객체를 활용한 INSERT 처리와 update() 메서드를 이용한 UPDATE 방법을 정리합니다"
 tags:
   - "Java"
   - "SQL"

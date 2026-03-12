@@ -1,7 +1,7 @@
 ---
 title: "HTML5 캔버스로 무지개빛 선 그리기"
 pubDatetime: 2020-04-19T21:39:21+09:00
-description: "티스토리 아카이브"
+description: "HTML5 Canvas API와 HSL 색상 체계를 활용해 마우스로 무지개색 선을 그리는 방법을 소개합니다. 구조 분해 할당과 마우스 이벤트 처리도 함께 다룹니다"
 tags:
   - "HTML"
   - "자바스크립트"

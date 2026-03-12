@@ -1,7 +1,7 @@
 ---
 title: "HTML과 CSS (Front End)"
 pubDatetime: 2020-03-31T00:55:21+09:00
-description: "티스토리 아카이브"
+description: "edwith 부스트코스 강의 정리 - HTML 시맨틱 태그, 레이아웃 구조 설계, CSS 박스 모델과 선택자 활용법"
 tags:
   - "HTML"
   - "css"

@@ -1,7 +1,7 @@
 ---
 title: "음성을 인식하는 웹 메모장 만들기"
 pubDatetime: 2020-05-04T17:51:42+09:00
-description: "티스토리 아카이브"
+description: "Web Speech API의 SpeechRecognition 인터페이스를 활용해 음성 입력을 실시간으로 인식하고 웹페이지에 표시하는 메모장을 만드는 방법을 소개합니다"
 tags:
   - "마이크"
   - "자바스크립트"

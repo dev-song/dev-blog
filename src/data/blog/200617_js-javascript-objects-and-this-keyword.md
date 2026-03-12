@@ -1,7 +1,7 @@
 ---
 title: "[JS] JavaScript 객체와 this 키워드"
 pubDatetime: 2020-06-17T21:44:55+09:00
-description: "티스토리 아카이브"
+description: "JavaScript 객체 리터럴의 구조와 this 키워드의 동작 원리, call 메서드를 활용한 컨텍스트 변경 방법을 다룬다"
 tags:
   - "javascript"
   - "This"

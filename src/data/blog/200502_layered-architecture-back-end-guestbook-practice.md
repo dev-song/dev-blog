@@ -1,7 +1,7 @@
 ---
 title: "Layered Architecture (Back End) ... 실습 전 준비"
 pubDatetime: 2020-05-02T18:29:13+09:00
-description: "티스토리 아카이브"
+description: "레이어드 아키텍처를 활용한 방명록 프로젝트의 기본 구조와 구현 기능을 정리합니다. Controller, Service, DAO 계층 구성과 페이징 처리 방식을 소개합니다"
 tags:
   - "Java"
   - "웹 프로그래밍"

@@ -1,7 +1,7 @@
 ---
 title: "SQL Join 알아보기 ... 기본 유형 4가지"
 pubDatetime: 2020-05-30T18:44:18+09:00
-description: "티스토리 아카이브"
+description: "SQL Join의 기본 유형인 Inner, Left, Right, Full Join의 차이를 벤 다이어그램과 실제 예제 쿼리로 설명한다"
 tags:
   - "SQL"
   - "Join"

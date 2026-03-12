@@ -1,7 +1,7 @@
 ---
 title: "Web Animation (Front End)"
 pubDatetime: 2020-04-12T18:16:54+09:00
-description: "티스토리 아카이브"
+description: "setInterval·setTimeout·requestAnimationFrame의 차이와 CSS transition·transform을 이용한 웹 애니메이션 구현 방법을 정리한 노트"
 tags:
   - "css"
   - "setTimeout"

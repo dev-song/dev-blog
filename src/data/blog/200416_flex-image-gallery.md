@@ -1,7 +1,7 @@
 ---
 title: "Flex 이미지 갤러리"
 pubDatetime: 2020-04-16T23:40:44+09:00
-description: "티스토리 아카이브"
+description: "JavaScript30 Day 05 튜토리얼로 CSS Flex 속성(flex-grow, justify-content 등)과 transition을 이용한 이미지 갤러리를 구현한 노트"
 tags:
   - "자바스크립트"
   - "css"

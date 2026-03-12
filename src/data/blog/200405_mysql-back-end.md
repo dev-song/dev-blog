@@ -1,7 +1,7 @@
 ---
 title: "MySQL (Back End)"
 pubDatetime: 2020-04-05T23:58:14+09:00
-description: "티스토리 아카이브"
+description: "edwith 부스트코스 강의 정리 - 데이터베이스와 DBMS의 개념, MySQL 설치 및 기본 SQL 명령어 사용법"
 tags:
   - "mysql"
   - "데이터베이스"

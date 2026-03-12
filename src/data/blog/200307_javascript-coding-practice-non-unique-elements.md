@@ -1,7 +1,7 @@
 ---
 title: "JavaScript 코딩 연습 - Non unique Elements"
 pubDatetime: 2020-03-07T09:43:07+09:00
-description: "티스토리 아카이브"
+description: "배열에서 딱 하나만 존재하는 고유한 값을 제거하고 중복 값만 남기는 CheckiO 코딩 문제 풀이"
 tags:
   - "자바스크립트"
   - "javascript"

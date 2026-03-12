@@ -1,7 +1,7 @@
 ---
 title: "JavaScript 배열 다루기 1"
 pubDatetime: 2020-04-15T15:39:05+09:00
-description: "티스토리 아카이브"
+description: "JavaScript30 Day 04 튜토리얼로 reduce로 빈도수 집계, filter+includes로 문자열 검색 등 배열 조작 메서드를 연습한 노트"
 tags:
   - "자바스크립트"
   - "javascript"

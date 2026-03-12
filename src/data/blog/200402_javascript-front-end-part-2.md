@@ -1,7 +1,7 @@
 ---
 title: "JavaScript (Front End) ... Part 2"
 pubDatetime: 2020-04-02T13:51:57+09:00
-description: "티스토리 아카이브"
+description: "edwith 부스트코스 강의 정리 - JavaScript 함수 선언문과 표현식의 차이, 호이스팅, 클로저 개념 정리"
 tags:
   - "자바스크립트"
   - "javascript"

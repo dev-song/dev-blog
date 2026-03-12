@@ -1,7 +1,7 @@
 ---
 title: "JavaScript 코딩 연습 - K번째 수"
 pubDatetime: 2020-03-17T17:07:33+09:00
-description: "티스토리 아카이브"
+description: "배열을 특정 구간으로 자르고 정렬했을 때 K번째 수를 구하는 프로그래머스 Level 1 문제 풀이"
 tags:
   - "자바스크립트"
   - "javascript"

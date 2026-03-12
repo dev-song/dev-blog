@@ -1,7 +1,7 @@
 ---
 title: "[JS] handlebars 라이브러리를 활용한 템플릿 작업 ... Part 2"
 pubDatetime: 2020-07-08T16:03:23+09:00
-description: "티스토리 아카이브"
+description: "Handlebars 라이브러리로 배열 데이터와 조건문을 템플릿에 반영하는 방법과 Helper 기능 활용법을 다룬다"
 tags:
   - "javascript"
   - "template"

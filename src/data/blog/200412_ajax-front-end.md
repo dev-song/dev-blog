@@ -1,7 +1,7 @@
 ---
 title: "AJAX (Front End)"
 pubDatetime: 2020-04-12T17:22:41+09:00
-description: "티스토리 아카이브"
+description: "AJAX 비동기 처리 원리, JSON 파싱, Cross Domain 문제와 CORS·JSONP 해결책, Chrome 개발자 도구 Network 패널 활용법을 정리한 노트"
 tags:
   - "ajax"
   - "XMLHttpRequest"

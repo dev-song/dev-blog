@@ -1,7 +1,7 @@
 ---
 title: "RestController (Back End) ... 실습"
 pubDatetime: 2020-05-06T23:38:10+09:00
-description: "티스토리 아카이브"
+description: "@RestController를 사용해 방명록 프로젝트에 Web API를 추가하는 실습입니다. GET, POST, DELETE 요청에 대응하는 API 컨트롤러 구현과 JSON 응답 처리 방법을 정리합니다"
 tags:
   - "Java"
   - "웹 프로그래밍"

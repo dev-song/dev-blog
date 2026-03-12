@@ -1,7 +1,7 @@
 ---
 title: "Spring JDBC (Back End) ... Part 2"
 pubDatetime: 2020-04-17T20:23:07+09:00
-description: "티스토리 아카이브"
+description: "DTO·DAO·ConnectionPool·DataSource의 개념을 설명하고, Spring JDBC 구조와 DataSource 접속 설정 실습을 정리한 노트"
 tags:
   - "Java"
   - "Spring"

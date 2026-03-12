@@ -1,7 +1,7 @@
 ---
 title: "Spring Core (Back End) ... Part 3"
 pubDatetime: 2020-04-15T16:18:05+09:00
-description: "티스토리 아카이브"
+description: "Java Config 클래스와 @Configuration·@Bean·@ComponentScan·@Autowired 어노테이션으로 Spring DI를 설정하는 방법을 정리한 노트"
 tags:
   - "Java"
   - "Spring"

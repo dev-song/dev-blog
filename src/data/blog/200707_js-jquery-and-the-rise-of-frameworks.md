@@ -1,7 +1,7 @@
 ---
 title: "[JS] 한 시대를 풍미한 jQuery, 그리고 프레임워크의 대두"
 pubDatetime: 2020-07-07T22:04:25+09:00
-description: "티스토리 아카이브"
+description: "jQuery의 흥망성쇠와 React, Angular, Vue 등 JavaScript 프레임워크가 대두된 배경을 정리한 글"
 tags:
   - "javascript"
   - "jQuery"

@@ -1,7 +1,7 @@
 ---
 title: "EL과 JSTL (Back End)"
 pubDatetime: 2020-04-05T19:31:20+09:00
-description: "티스토리 아카이브"
+description: "edwith 부스트코스 강의 정리 - JSP 코드를 단순화하는 EL(Expression Language)과 JSTL의 문법 및 활용 방법"
 tags:
   - "jsp"
   - "El"

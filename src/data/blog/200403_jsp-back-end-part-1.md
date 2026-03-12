@@ -1,7 +1,7 @@
 ---
 title: "JSP (Back End) ... Part 1"
 pubDatetime: 2020-04-03T13:50:56+09:00
-description: "티스토리 아카이브"
+description: "edwith 부스트코스 강의 정리 - JSP의 등장 배경, Servlet으로 변환되는 동작 방식, Life cycle 개요"
 tags:
   - "Java"
   - "jsp"

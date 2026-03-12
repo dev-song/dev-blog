@@ -1,7 +1,7 @@
 ---
 title: "Spring MVC (Back End) ... Part 2"
 pubDatetime: 2020-04-22T19:59:12+09:00
-description: "티스토리 아카이브"
+description: "Spring MVC의 구성요소와 Dispatcher Servlet의 내부 동작 흐름을 상세히 정리합니다. HandlerMapping, HandlerAdapter, ViewResolver 등 핵심 컴포넌트의 역할을 설명합니다"
 tags:
   - "Java"
   - "Spring"

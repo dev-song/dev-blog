@@ -1,7 +1,7 @@
 ---
 title: "개발자 도구 정복하기"
 pubDatetime: 2020-04-20T16:20:07+09:00
-description: "티스토리 아카이브"
+description: "브라우저 개발자 도구의 다양한 기능을 살펴봅니다. 콘솔 스타일 지정, console.assert(), console.dir(), 그룹 메시지 등 실용적인 활용법을 정리합니다"
 tags:
   - "자바스크립트"
   - "javascript"

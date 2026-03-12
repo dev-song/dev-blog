@@ -1,7 +1,7 @@
 ---
 title: "커스텀 HTML5 동영상 플레이어"
 pubDatetime: 2020-04-22T15:12:04+09:00
-description: "티스토리 아카이브"
+description: "JavaScript로 HTML5 Video 요소를 다루는 방법을 소개합니다. currentTime, volume, playbackRate 등의 속성과 play/pause 이벤트를 활용해 커스텀 동영상 플레이어를 만들어봅니다"
 tags:
   - "자바스크립트"
   - "javascript"

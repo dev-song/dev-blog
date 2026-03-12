@@ -1,7 +1,7 @@
 ---
 title: "JDBC (Back End) ... Part 2"
 pubDatetime: 2020-04-06T18:32:59+09:00
-description: "티스토리 아카이브"
+description: "JDBC 실습을 통해 Role 클래스와 RoleDao 클래스를 생성하고, PreparedStatement로 데이터를 조회하는 방법을 정리한 노트"
 tags:
   - "jdbc"
   - "웹 프로그래밍"

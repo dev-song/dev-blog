@@ -1,7 +1,7 @@
 ---
 title: "JSP Scope (Back End)"
 pubDatetime: 2020-04-04T03:05:41+09:00
-description: "티스토리 아카이브"
+description: "edwith 부스트코스 강의 정리 - JSP의 4가지 Scope(Page/Request/Session/Application) 개념과 활용 범위"
 tags:
   - "jsp"
   - "Page"

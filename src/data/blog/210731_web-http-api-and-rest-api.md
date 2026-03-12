@@ -1,7 +1,7 @@
 ---
 title: "API"
 pubDatetime: 2021-07-31T23:21:02+09:00
-description: "티스토리 아카이브"
+description: "API, Web API, HTTP API, REST API의 개념 차이와 REST API가 되기 위한 조건을 정리한 글"
 tags:
   - "WEB"
   - "API"

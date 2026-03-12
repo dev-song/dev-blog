@@ -1,7 +1,7 @@
 ---
 title: "JavaScript 데이터 참조 vs 복사"
 pubDatetime: 2020-04-26T23:04:55+09:00
-description: "티스토리 아카이브"
+description: "JavaScript에서 숫자·문자열은 복사, 배열·객체는 참조로 전달되는 차이를 설명합니다. 얕은 복사와 깊은 복사(deep clone)의 방법과 한계를 정리합니다"
 tags:
   - "자바스크립트"
   - "javascript"

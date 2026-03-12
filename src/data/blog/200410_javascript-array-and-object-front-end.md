@@ -1,7 +1,7 @@
 ---
 title: "JavaScript - Array & Object (Front End)"
 pubDatetime: 2020-04-10T20:39:34+09:00
-description: "티스토리 아카이브"
+description: "JavaScript 배열과 객체의 선언·조작·탐색 메서드(forEach, map, filter, Object.keys 등)를 예제와 함께 정리한 노트"
 tags:
   - "자바스크립트"
   - "javascript"

@@ -1,7 +1,7 @@
 ---
 title: "웹 개발의 이해 (FE/BE) - Part 2"
 pubDatetime: 2020-03-30T15:23:16+09:00
-description: "티스토리 아카이브"
+description: "edwith 부스트코스 강의 정리 - 웹 프론트엔드와 백엔드의 역할 차이, HTML/CSS/JS의 분담 구조 개요"
 tags:
   - "HTML"
   - "웹 프로그래밍"

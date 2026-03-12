@@ -1,7 +1,7 @@
 ---
 title: "Spring Core (Back End) ... Part 1"
 pubDatetime: 2020-04-14T18:38:34+09:00
-description: "티스토리 아카이브"
+description: "Spring Framework의 개요, 모듈 구성, IoC·DI 컨테이너(BeanFactory, ApplicationContext)의 개념을 정리한 노트"
 tags:
   - "Java"
   - "Spring"

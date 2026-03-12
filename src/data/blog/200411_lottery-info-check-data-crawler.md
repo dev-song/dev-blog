@@ -1,7 +1,7 @@
 ---
 title: "Lottery Info Check - Data Crawler"
 pubDatetime: 2020-04-11T16:41:48+09:00
-description: "티스토리 아카이브"
+description: "로또 당첨 결과 확인 앱 개발에 활용한 Node.js 웹 크롤링, JSON 데이터 수정, 비동기 반복문 처리 관련 참고 링크 모음"
 ---
 
 프로젝트: \[개인 프로젝트\] 로또 복권 당첨 결과 확인 어플리케이션

@@ -1,7 +1,7 @@
 ---
 title: "H1"
 pubDatetime: 2021-04-12T06:29:15+09:00
-description: "티스토리 아카이브"
+description: "마크다운 기본 문법(제목, 목록, 코드블록 등)과 확장 문법이 블로그에서 올바르게 렌더링되는지 확인하는 테스트 포스트"
 ---
 
 Markdown Test (basic)

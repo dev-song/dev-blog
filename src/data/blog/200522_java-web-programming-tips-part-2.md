@@ -1,7 +1,7 @@
 ---
 title: "Java Web Programming Tips ... Part 2"
 pubDatetime: 2020-05-22T15:37:02+09:00
-description: "티스토리 아카이브"
+description: "Maven 프로젝트 설정 오류, MySQL Connector 설치, 공개 키 오류 등 Java 웹 프로그래밍 중 자주 겪는 문제와 해결 링크를 모은 메모"
 ---
 
 Maven Project 애 먹일 때 확인해야 하는 것들

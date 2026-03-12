@@ -1,7 +1,7 @@
 ---
 title: "JavaScript (Front End) ... Part 1"
 pubDatetime: 2020-04-02T13:04:49+09:00
-description: "티스토리 아카이브"
+description: "edwith 부스트코스 강의 정리 - JavaScript 변수 선언(var/let/const), 연산자, 타입 등 기초 문법 개요"
 tags:
   - "자바스크립트"
   - "javascript"

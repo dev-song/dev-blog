@@ -1,7 +1,7 @@
 ---
 title: "Web UI 심화 (Front End)"
 pubDatetime: 2020-04-13T20:26:04+09:00
-description: "티스토리 아카이브"
+description: "DOMContentLoaded 이벤트, Event Delegation·Bubbling·Capturing, HTML Templating 기법을 실습 코드와 함께 정리한 노트"
 tags:
   - "웹 프로그래밍"
   - "Web UI"

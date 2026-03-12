@@ -1,7 +1,7 @@
 ---
 title: "Web API (Back End) ... Part 2"
 pubDatetime: 2020-04-08T14:48:17+09:00
-description: "티스토리 아카이브"
+description: "Maven 프로젝트에 JSON 라이브러리를 추가하고, Servlet에서 DB 데이터를 JSON으로 응답하는 Web API를 구현하는 실습 노트"
 tags:
   - "웹 프로그래밍"
   - "BACK END"

@@ -1,7 +1,7 @@
 ---
 title: "Spring MVC (Back End) ... Part 3"
 pubDatetime: 2020-04-30T17:03:34+09:00
-description: "티스토리 아카이브"
+description: "Spring MVC 프로젝트의 기본 설정과 DispatcherServlet을 FrontController로 구성하는 방법을 정리합니다. Maven 프로젝트 생성부터 web.xml 설정까지의 과정을 다룹니다"
 tags:
   - "Java"
   - "Spring"

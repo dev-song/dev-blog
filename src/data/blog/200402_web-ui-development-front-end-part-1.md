@@ -1,7 +1,7 @@
 ---
 title: "Web UI 개발 (Front End) ... Part 1"
 pubDatetime: 2020-04-02T23:39:14+09:00
-description: "티스토리 아카이브"
+description: "edwith 부스트코스 강의 정리 - window 객체, setTimeout 비동기 동작 원리, DOM과 querySelector 사용법"
 tags:
   - "자바스크립트"
   - "javascript"

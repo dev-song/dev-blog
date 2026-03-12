@@ -1,7 +1,7 @@
 ---
 title: "SQL Join 알아보기 ... Join이란?"
 pubDatetime: 2020-05-25T15:13:25+09:00
-description: "티스토리 아카이브"
+description: "SQL Join의 개념과 기본키/외래키를 통한 테이블 간 관계를 예제와 함께 설명한다"
 tags:
   - "SQL"
   - "Join"

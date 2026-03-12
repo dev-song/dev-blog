@@ -1,7 +1,7 @@
 ---
 title: "Web API (Back End) ... Part 1"
 pubDatetime: 2020-04-07T21:20:54+09:00
-description: "티스토리 아카이브"
+description: "REST API와 Web API의 개념, REST의 제약 조건, URI 설계 규칙, HTTP 상태 코드를 정리한 노트"
 tags:
   - "웹 프로그래밍"
   - "BACK END"

@@ -1,7 +1,7 @@
 ---
 title: "Spring MVC (Back End) ... Part 1"
 pubDatetime: 2020-04-22T18:41:12+09:00
-description: "티스토리 아카이브"
+description: "Spring MVC의 개념과 MVC 패턴의 발전 과정을 정리합니다. Model 1/2 아키텍처의 차이점과 Front Controller 패턴의 등장 배경을 설명합니다"
 tags:
   - "Java"
   - "Spring"

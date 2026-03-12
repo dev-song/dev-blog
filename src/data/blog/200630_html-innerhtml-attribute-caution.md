@@ -1,7 +1,7 @@
 ---
 title: "웹페이지를 다룰 때 주의해야 할 속성, innerHTML"
 pubDatetime: 2020-06-30T12:37:04+09:00
-description: "티스토리 아카이브"
+description: "innerHTML의 XSS 보안 취약점을 설명하고, 대안으로 textContent와 insertAdjacentHTML 사용을 권장하는 글"
 tags:
   - "HTML"
   - "javascript"

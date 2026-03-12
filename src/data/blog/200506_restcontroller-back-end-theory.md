@@ -1,7 +1,7 @@
 ---
 title: "RestController (Back End) ... 이론"
 pubDatetime: 2020-05-06T23:33:26+09:00
-description: "티스토리 아카이브"
+description: "Spring MVC의 @RestController와 MessageConverter의 역할을 정리한 글. JSON 응답 처리 방식을 설명한다"
 tags:
   - "Java"
   - "웹 프로그래밍"

@@ -1,7 +1,7 @@
 ---
 title: "JavaScript 코딩 연습 - The Most Wanted Letter"
 pubDatetime: 2020-03-25T17:55:50+09:00
-description: "티스토리 아카이브"
+description: "문장에서 대소문자 구분 없이 가장 많이 등장하는 알파벳을 찾는 CheckiO 코딩 문제 풀이"
 tags:
   - "자바스크립트"
   - "javascript"

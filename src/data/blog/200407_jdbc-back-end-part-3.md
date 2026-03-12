@@ -1,7 +1,7 @@
 ---
 title: "JDBC (Back End) ... Part 3"
 pubDatetime: 2020-04-07T16:55:20+09:00
-description: "티스토리 아카이브"
+description: "try-with-resource 구문을 활용해 JDBC로 데이터 추가·전체 조회·수정·삭제하는 메서드를 구현하는 방법을 정리한 노트"
 tags:
   - "jdbc"
   - "웹 프로그래밍"

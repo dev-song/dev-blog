@@ -1,7 +1,7 @@
 ---
 title: "Spring Core (Back End) ... Part 2"
 pubDatetime: 2020-04-14T23:22:22+09:00
-description: "티스토리 아카이브"
+description: "XML 설정 파일로 Spring Bean을 정의하고 ApplicationContext로 DI를 적용하는 실습 및 싱글턴 패턴을 정리한 노트"
 tags:
   - "Java"
   - "Spring"

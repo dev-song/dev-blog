@@ -1,7 +1,7 @@
 ---
 title: "Java Servlet (Back End) ... Part 2"
 pubDatetime: 2020-04-01T23:56:48+09:00
-description: "티스토리 아카이브"
+description: "edwith 부스트코스 강의 정리 - Servlet의 생명주기(Life Cycle), HttpServletRequest/Response 객체 활용법"
 tags:
   - "Java"
   - "servlet"

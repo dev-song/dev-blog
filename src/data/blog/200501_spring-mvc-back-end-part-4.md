@@ -1,7 +1,7 @@
 ---
 title: "Spring MVC (Back End) ... Part 4"
 pubDatetime: 2020-05-01T12:30:52+09:00
-description: "티스토리 아카이브"
+description: "Spring MVC 실습으로 두 수를 더하는 웹페이지를 구현합니다. MVC 설정 클래스 작성, addResourceHandlers, addViewControllers 등의 설정 방법을 정리합니다"
 tags:
   - "Java"
   - "Spring"

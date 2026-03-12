@@ -1,7 +1,7 @@
 ---
 title: "Maven (Back End)"
 pubDatetime: 2020-04-06T11:27:39+09:00
-description: "티스토리 아카이브"
+description: "Maven의 개념과 CoC 원칙을 설명하고, Eclipse에서 Maven 웹 프로젝트를 생성·설정하는 방법을 단계별로 정리한 노트"
 tags:
   - "Java"
   - "maven"

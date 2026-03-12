@@ -1,7 +1,7 @@
 ---
 title: "정관사 The, A, An이 포함된 문자열 정렬하기"
 pubDatetime: 2020-04-29T16:27:11+09:00
-description: "티스토리 아카이브"
+description: "영문 정관사 The, A, An을 제외하고 문자열 배열을 정렬하는 방법을 소개합니다. sort() 메서드의 동작 방식과 includes()를 활용한 다중 값 비교 기법을 다룹니다"
 tags:
   - "자바스크립트"
   - "javascript"

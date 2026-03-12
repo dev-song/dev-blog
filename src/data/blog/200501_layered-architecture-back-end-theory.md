@@ -1,7 +1,7 @@
 ---
 title: "Layered Architecture (Back End) ... 이론"
 pubDatetime: 2020-05-01T18:07:18+09:00
-description: "티스토리 아카이브"
+description: "레이어드 아키텍처의 개념과 Controller, Service, Repository Layer의 역할을 설명합니다. 트랜잭션의 4가지 특성(ACID)과 비즈니스 로직 설계 원칙을 다룹니다"
 tags:
   - "Java"
   - "웹 프로그래밍"

@@ -1,7 +1,7 @@
 ---
 title: "Layered Architecture (Back End) ... 실습 (2)"
 pubDatetime: 2020-05-04T14:48:06+09:00
-description: "티스토리 아카이브"
+description: "방명록 프로젝트의 데이터베이스 테이블 생성과 DTO 클래스 작성 과정을 다룹니다. guestbook, log 테이블에 대응하는 DTO 클래스의 필드, getter/setter, toString() 구성을 정리합니다"
 tags:
   - "Java"
   - "웹 프로그래밍"

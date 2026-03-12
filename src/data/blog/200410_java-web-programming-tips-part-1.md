@@ -1,7 +1,7 @@
 ---
 title: "Java Web Programming Tips ... Part 1"
 pubDatetime: 2020-04-10T17:33:46+09:00
-description: "티스토리 아카이브"
+description: "To-do List 프로젝트 진행 중 발견한 Java 문자열 처리, HTML form 요소, AJAX POST 전송, DOM 조작 등 실용 팁 모음"
 tags:
   - "Java"
   - "mysql"

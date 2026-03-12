@@ -1,7 +1,7 @@
 ---
 title: "JSP (Back End) ... Part 2"
 pubDatetime: 2020-04-03T14:29:35+09:00
-description: "티스토리 아카이브"
+description: "edwith 부스트코스 강의 정리 - JSP 스크립트 요소(선언문/스크립트릿/표현식), 주석 방식, 내장 객체 종류와 사용법"
 tags:
   - "Java"
   - "jsp"

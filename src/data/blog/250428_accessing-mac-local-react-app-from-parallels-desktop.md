@@ -1,7 +1,7 @@
 ---
 title: "Parallels Desktop에서 Mac의 로컬 React 앱에 접근하기"
 pubDatetime: 2025-04-28T16:08:20+09:00
-description: "티스토리 아카이브"
+description: "Parallels Desktop의 Windows 환경에서 Mac 로컬의 React 앱과 API 서버에 접근하기 위한 네트워크 설정과 CORS 해결 방법을 다룬다"
 tags:
   - "Parallels"
   - "Vite"

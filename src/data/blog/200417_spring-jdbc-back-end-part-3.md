@@ -1,7 +1,7 @@
 ---
 title: "Spring JDBC (Back End) ... Part 3"
 pubDatetime: 2020-04-17T23:40:48+09:00
-description: "티스토리 아카이브"
+description: "Spring JDBC를 이용해 SELECT 쿼리문을 실행하는 방법을 다룹니다. DTO, DAO 클래스 생성과 NamedParameterJdbcTemplate 활용법을 정리합니다"
 tags:
   - "Java"
   - "SQL"

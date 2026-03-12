@@ -1,7 +1,7 @@
 ---
 title: "[JS] handlebars 라이브러리를 활용한 템플릿 작업 ... Part 1"
 pubDatetime: 2020-07-08T15:37:58+09:00
-description: "티스토리 아카이브"
+description: "Handlebars 템플릿 라이브러리의 기본 사용법과 데이터를 HTML에 바인딩하는 과정을 예제로 설명한다"
 tags:
   - "javascript"
   - "template"

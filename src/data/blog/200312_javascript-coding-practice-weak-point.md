@@ -1,7 +1,7 @@
 ---
 title: "JavaScript 코딩 연습 - Weak Point"
 pubDatetime: 2020-03-12T12:06:52+09:00
-description: "티스토리 아카이브"
+description: "정사각 행렬에서 행과 열의 합이 가장 작은 교점, 즉 우주선의 약점을 찾는 CheckiO 코딩 문제 풀이"
 tags:
   - "자바스크립트"
   - "javascript"

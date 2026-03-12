@@ -1,7 +1,7 @@
 ---
 title: "[VSC] ESLint 라이브러리가 작동하지 않는 에러"
 pubDatetime: 2020-07-13T12:26:41+09:00
-description: "티스토리 아카이브"
+description: "VS Code에서 ESLint가 플러그인을 찾지 못하는 에러의 원인과 workingDirectories 설정으로 해결하는 방법을 다룬다"
 tags:
   - "javascript"
   - "문제 해결"

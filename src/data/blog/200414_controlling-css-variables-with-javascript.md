@@ -1,7 +1,7 @@
 ---
 title: "JavaScript로 CSS 변수 조절하기"
 pubDatetime: 2020-04-14T15:45:18+09:00
-description: "티스토리 아카이브"
+description: "JavaScript30 Day 03 튜토리얼로 CSS 변수(:root)를 선언하고 JavaScript의 setProperty로 실시간 조절하는 방법을 정리한 노트"
 tags:
   - "HTML"
   - "자바스크립트"

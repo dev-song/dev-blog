@@ -1,7 +1,7 @@
 ---
 title: "SQL (Back End) ... Part 1"
 pubDatetime: 2020-04-06T00:51:54+09:00
-description: "티스토리 아카이브"
+description: "SQL의 개념과 DML(SELECT, INSERT, UPDATE, DELETE)의 사용법, 그리고 MySQL의 주요 단일·그룹 함수를 정리한 노트"
 tags:
   - "SQL"
   - "DML"

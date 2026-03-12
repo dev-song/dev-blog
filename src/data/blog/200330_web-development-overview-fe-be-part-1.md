@@ -1,7 +1,7 @@
 ---
 title: "웹 개발의 이해 (FE/BE) - Part 1"
 pubDatetime: 2020-03-30T01:36:08+09:00
-description: "티스토리 아카이브"
+description: "edwith 부스트코스 웹 프로그래밍 강의 정리 - HTTP 프로토콜의 동작 방식과 URL 구조 등 웹 기초 개념"
 tags:
   - "웹 프로그래밍"
   - "HTTP"

@@ -1,7 +1,7 @@
 ---
 title: "AJAX 검색어 자동완성"
 pubDatetime: 2020-04-17T16:32:40+09:00
-description: "티스토리 아카이브"
+description: "JavaScript30 Day 06 튜토리얼로 Fetch API와 정규 표현식을 활용해 검색어 자동완성 기능을 구현하는 방법을 정리한 노트"
 tags:
   - "자바스크립트"
   - "ajax"

@@ -1,7 +1,7 @@
 ---
 title: "JavaScript .reduce( ) 메서드로 시간 더하기"
 pubDatetime: 2020-05-01T15:14:54+09:00
-description: "티스토리 아카이브"
+description: "JavaScript의 reduce() 메서드를 활용해 여러 동영상의 재생 시간을 합산하는 방법을 소개합니다. 누산기와 초기값 개념을 포함한 reduce()의 다양한 활용 패턴을 정리합니다"
 tags:
   - "자바스크립트"
   - "javascript"

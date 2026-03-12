@@ -1,7 +1,7 @@
 ---
 title: "DOM API (Front End)"
 pubDatetime: 2020-04-11T20:58:22+09:00
-description: "티스토리 아카이브"
+description: "DOM 노드 탐색·조작 API(appendChild, insertBefore, innerHTML 등)의 종류와 사용법, 성능 비교를 정리한 노트"
 tags:
   - "API"
   - "DOM"

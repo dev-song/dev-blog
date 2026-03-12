@@ -1,7 +1,7 @@
 ---
 title: "웹페이지에 현재 위치 정보 표시하기"
 pubDatetime: 2020-05-05T14:59:04+09:00
-description: "티스토리 아카이브"
+description: "Geolocation Web API를 활용해 브라우저의 현재 위치를 파악하고 속도와 방향을 웹페이지에 표시하는 방법을 소개합니다. watchPosition() 메서드 사용법과 보안 컨텍스트 요건을 설명합니다"
 tags:
   - "자바스크립트"
   - "javascript"

@@ -1,7 +1,7 @@
 ---
 title: "JavaScript 코딩 연습 - Long Repeat"
 pubDatetime: 2020-03-07T08:08:13+09:00
-description: "티스토리 아카이브"
+description: "문자열에서 연속으로 가장 많이 반복되는 문자의 개수를 구하는 CheckiO 코딩 문제 풀이"
 tags:
   - "javascript"
   - "코딩"

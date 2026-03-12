@@ -1,7 +1,7 @@
 ---
 title: "CSS와 JavaScript로 시계 만들기"
 pubDatetime: 2020-04-13T13:23:51+09:00
-description: "티스토리 아카이브"
+description: "JavaScript30 Day 02 튜토리얼로 transform-origin과 CSS transition-timing-function을 활용해 아날로그 시계를 구현하는 방법을 정리한 노트"
 tags:
   - "HTML"
   - "자바스크립트"

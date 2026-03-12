@@ -1,7 +1,7 @@
 ---
 title: "JavaScript 드럼 재생기"
 pubDatetime: 2020-04-12T15:52:35+09:00
-description: "티스토리 아카이브"
+description: "JavaScript30 Day 01 튜토리얼로 HTML audio 태그 재생과 CSS transitionend 이벤트를 활용한 드럼 재생기를 만드는 방법을 정리한 노트"
 tags:
   - "HTML"
   - "자바스크립트"

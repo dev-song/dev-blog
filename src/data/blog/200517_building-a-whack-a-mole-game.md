@@ -1,7 +1,7 @@
 ---
 title: "두더지 잡기 게임 만들기"
 pubDatetime: 2020-05-17T16:14:36+09:00
-description: "티스토리 아카이브"
+description: "Math.random()과 재귀 함수를 활용해 두더지가 무작위로 튀어나오는 두더지 잡기 미니 게임을 JavaScript로 구현한다"
 tags:
   - "자바스크립트"
   - "javascript"

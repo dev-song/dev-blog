@@ -1,7 +1,7 @@
 ---
 title: "HTML <script> 태그를 사용하는 또 다른 방법, defer 속성"
 pubDatetime: 2020-06-16T23:03:46.622Z
-description: "티스토리 아카이브"
+description: "script 태그의 defer 속성을 사용하면 HTML 파싱과 JS 로딩을 병렬 처리해 페이지 로딩 속도를 개선할 수 있다"
 tags:
   - "HTML"
   - "javascript"

@@ -1,7 +1,7 @@
 ---
 title: "HTTP redirect & forward (Back End)"
 pubDatetime: 2020-04-03T15:00:45+09:00
-description: "티스토리 아카이브"
+description: "edwith 부스트코스 강의 정리 - HTTP redirect와 forward의 동작 방식 차이 및 Servlet/JSP에서의 활용법"
 tags:
   - "Forward"
   - "redirect"

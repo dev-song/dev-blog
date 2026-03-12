@@ -1,7 +1,7 @@
 ---
 title: "Web UI 개발 (Front End) ... Part 2"
 pubDatetime: 2020-04-02T23:57:38+09:00
-description: "티스토리 아카이브"
+description: "edwith 부스트코스 강의 정리 - AJAX(XMLHttpRequest)의 동작 원리, JSON 포맷, CORS 개념 및 JavaScript 디버깅"
 tags:
   - "ajax"
   - "debugging"

@@ -1,7 +1,7 @@
 ---
 title: "Tab UI (Front End)"
 pubDatetime: 2020-04-14T12:52:19+09:00
-description: "티스토리 아카이브"
+description: "AJAX와 HTML Templating을 결합해 탭 클릭 시 JSON 데이터를 불러와 콘텐츠를 교체하는 Tab UI를 구현하는 실습 노트"
 tags:
   - "ajax"
   - "템플릿"

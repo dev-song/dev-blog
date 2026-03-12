@@ -1,7 +1,7 @@
 ---
 title: "카운트다운 타이머 만들기"
 pubDatetime: 2020-05-15T00:54:34+09:00
-description: "티스토리 아카이브"
+description: "setInterval과 Date 객체를 활용해 지정 시간 또는 직접 입력한 시간 동안 카운트다운하는 타이머를 만드는 방법을 다룬다"
 tags:
   - "자바스크립트"
   - "javascript"

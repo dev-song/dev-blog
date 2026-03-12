@@ -1,7 +1,7 @@
 ---
 title: "브라우저로 음성 합성하기"
 pubDatetime: 2020-05-07T22:27:19+09:00
-description: "티스토리 아카이브"
+description: "브라우저 내장 Web Speech API를 활용해 텍스트를 음성으로 변환하는 기능을 구현하는 방법을 다룬다"
 tags:
   - "자바스크립트"
   - "javascript"

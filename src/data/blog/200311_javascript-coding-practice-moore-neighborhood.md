@@ -1,7 +1,7 @@
 ---
 title: "JavaScript 코딩 연습 - Moore Neighborhood"
 pubDatetime: 2020-03-11T16:24:25+09:00
-description: "티스토리 아카이브"
+description: "격자 보드에서 특정 칸과 인접한(무어 이웃) 말의 개수를 구하는 CheckiO 코딩 문제 풀이"
 tags:
   - "자바스크립트"
   - "javascript"

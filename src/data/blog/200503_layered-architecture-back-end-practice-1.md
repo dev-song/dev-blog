@@ -1,7 +1,7 @@
 ---
 title: "Layered Architecture (Back End) ... 실습 (1)"
 pubDatetime: 2020-05-03T23:27:41+09:00
-description: "티스토리 아카이브"
+description: "레이어드 아키텍처 방명록 프로젝트의 초기 설정 과정을 다룹니다. Maven 프로젝트 생성, pom.xml 의존성 추가, 설정 클래스 작성 등의 단계를 정리합니다"
 tags:
   - "Java"
   - "웹 프로그래밍"

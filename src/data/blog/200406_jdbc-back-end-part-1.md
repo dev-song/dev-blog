@@ -1,7 +1,7 @@
 ---
 title: "JDBC (Back End) ... Part 1"
 pubDatetime: 2020-04-06T18:32:49+09:00
-description: "티스토리 아카이브"
+description: "edwith 부스트코스 강의 정리 - JDBC의 개념과 Java에서 데이터베이스에 연결하고 SQL을 실행하는 기본 절차"
 tags:
   - "jdbc"
   - "웹 프로그래밍"

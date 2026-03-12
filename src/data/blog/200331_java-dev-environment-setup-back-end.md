@@ -1,7 +1,7 @@
 ---
 title: "Java 개발환경 설정 (Back End)"
 pubDatetime: 2020-03-31T11:06:12+09:00
-description: "티스토리 아카이브"
+description: "Java 웹 개발을 위한 JDK 및 Eclipse IDE 설치, 환경변수 설정, Hello World 실행까지 단계별 정리"
 tags:
   - "Java"
   - "eclipse"

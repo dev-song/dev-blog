@@ -1,7 +1,7 @@
 ---
 title: "Layered Architecture (Back End) ... 실습 (3)"
 pubDatetime: 2020-05-05T17:45:40+09:00
-description: "티스토리 아카이브"
+description: "방명록 프로젝트의 Service Layer 구현 과정을 다룹니다. GuestbookService 인터페이스 선언과 GuestbookServiceImpl 구현 클래스의 비즈니스 메서드 작성 방법을 정리합니다"
 tags:
   - "Java"
   - "웹 프로그래밍"

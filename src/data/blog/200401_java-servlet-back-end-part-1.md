@@ -1,7 +1,7 @@
 ---
 title: "Java Servlet (Back End) ... Part 1"
 pubDatetime: 2020-04-01T12:23:54+09:00
-description: "티스토리 아카이브"
+description: "edwith 부스트코스 강의 정리 - Java Servlet의 개념, Java 웹 어플리케이션 디렉토리 구조, 정적/동적 웹페이지 차이"
 tags:
   - "Java"
   - "servlet"
