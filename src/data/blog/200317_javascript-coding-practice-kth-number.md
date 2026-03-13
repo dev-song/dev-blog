@@ -28,17 +28,9 @@ Level 1
 
 \***\*예시\*\***
 
-**array**
-
-**commands**
-
-**return**
-
-\[1, 5, 2, 6, 3, 7, 4\]
-
-\[ \[2, 5, 3\], \[4, 4, 1\], \[1, 7, 3\] \]
-
-\[5, 6, 3\]
+| array | commands | return |
+| --- | --- | --- |
+| \[1, 5, 2, 6, 3, 7, 4\] | \[ \[2, 5, 3\], \[4, 4, 1\], \[1, 7, 3\] \] | \[5, 6, 3\] |
 
 ---
 
@@ -48,12 +40,12 @@ Level 1
   - 참고자료
     - [\[JavaScript\] var / let / const](https://dororongju.tistory.com/62)
     - [var, let, const 차이점은?](https://gist.github.com/LeoHeo/7c2a2a6dbcf80becaaa1e61e90091e5d)
-  -  var
+  - var
     - JavaScript ES5까지는 유일했던 변수 선언방법
     - 변수를 재선언하는 것과 변수에 값을 재할당하는 것 모두 가능
   - let
     - JavaScript ES6에서 도입된 변수 선언방법
-    - 변수를 재선언하는 것은 불가능하지만 변수에 값을 재할당하는 것은 가능
+    - 변수를 재선언하는 것은 불가능하지만 변수에 값을 재할당하는 것은 가능
   - const
     - JavaScript ES6에서 도입된 상수 선언방법
     - 변수를 재선언하는 것과 변수에 값을 재할당하는 것 모두 불가능
@@ -75,4 +67,3 @@ function solution(array, commands) {
     });
 }
 ```
-

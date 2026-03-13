@@ -53,7 +53,7 @@ Servlet의 생명주기(Life Cycle)
         - 클라이언트의 요청이 POST일 경우: 자신이 갖고 있는 doPost(request, response) 메서드 호출
       - 참고자료: [템플릿 메소드 패턴(Template Method Pattern)](http://jdm.kr/blog/116)
   - doGet, doPost를 override하는 예제
-    - ```
+    - ```java
       @Override
       	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
       		response.setContentType("text/html");
@@ -124,4 +124,3 @@ HttpServletRequest와 HttpServletResponse
       - path: 기본값은 프로젝트명과 동일하나, 다르게 지정할 수 있음
     - request.getRemoteAddr( ): 클라이언트의 주소 값을 반환하는 메서드
       - 로컬 컴퓨터로 접속할 경우 운영체제에 따라 출력되는 값의 형태가 달라짐
-

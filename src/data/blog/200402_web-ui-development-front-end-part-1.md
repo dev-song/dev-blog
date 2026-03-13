@@ -41,23 +41,17 @@ Window 객체와 setTimeout
     - call stack이 비게 되면 callback 함수가 call stack으로 이동(push)
     - callback 함수 실행(pop)
   - 예시) 일반 함수, setTimeout, 일반 함수의 실행 시 출력 결과
-
-![](./images/22-0.png)
-
-![예시 1](./images/22-1.png)
-
-![](./images/22-2.png)
-
-![예시 2](./images/22-3.png)
+    - ![](./images/22-0.png)
+    - ![예시 1](./images/22-1.png)
+    - ![](./images/22-2.png)
+    - ![예시 2](./images/22-3.png)
 
 DOM과 querySelector
 
 - DOM(Document Object Model): 브라우저가 HTML 코드를 저장하는 객체 형태의 모델
-
-![DOM tree 도식](./images/22-4.png)
-
-    *   참고자료: [Document Object Model - Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model)
-    *   HTML 코드가 한 번만 표시된다면 필요 없을 개념이나, HTML 코드가 변경될 경우 편의성을 크게 높여줌
+  - ![DOM tree 도식](./images/22-4.png)
+  - 참고자료: [Document Object Model - Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model)
+  - HTML 코드가 한 번만 표시된다면 필요 없을 개념이나, HTML 코드가 변경될 경우 편의성을 크게 높여줌
 
 - DOM Tree: tree 형태로 저장된 HTML 요소(element) 정보를 지칭
   - 브라우저는 복잡한 DOM tree를 쉽게 탐색하기 위해 다양한 DOM API를 제공
@@ -81,4 +75,3 @@ DOM과 querySelector
   - 브라우저가 이벤트 리스너 함수를 호출할 때 이벤트 객체를 함께 전달
   - 이벤트 리스너 함수 안에서 이벤트 객체를 활용해 추가적인 작업을 할 수 있음
     - 예시) event.target: 이벤트가 발생한 HTML 요소에 대한 정보를 담은 객체를 반환
-

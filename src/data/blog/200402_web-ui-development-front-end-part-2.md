@@ -31,20 +31,16 @@ AJAX 통신의 이해
   - 웹에 데이터를 갱신할 때, 브라우저를 새로고침하지 않고도 서버의 데이터를 받을 수 있게 하는 기술
     - 화면 내 다른 부분에 영향을 주지 않으면서 데이터를 비동기적으로 서버에서 가져올 수 있어, 더 좋은 UX 경험을 제공함
   - 예시) 네이버 메인페이지의 섹션에서, 다른 섹션을 클릭하더라도 나머지는 그대로 있고 섹션 안의 내용만 바뀜
-
-![네이버 메인페이지 섹션](./images/23-0.png)
-
-        *   선택되지 않은 섹션의 컨텐츠까지 초기 로딩 시점에 불러온다면 초기 로딩 속도가 영향을 받으므로, 해당 컨텐츠가 필요한 시점에 동적으로 데이터를 받아와서 표현하는 방식
+    - ![네이버 메인페이지 섹션](./images/23-0.png)
+    * 선택되지 않은 섹션의 컨텐츠까지 초기 로딩 시점에 불러온다면 초기 로딩 속도가 영향을 받으므로, 해당 컨텐츠가 필요한 시점에 동적으로 데이터를 받아와서 표현하는 방식
 
 - AJAX 실행 코드
   - 참고자료: [Using XMLHttpRequest - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest)
   - 작동 원리
-
-![AJAX 실행 코드의 예시](./images/23-1.png)
-
-        *   XMLHttpRequest 객체 생성 → open( ) 메서드로 요청 준비 → send( ) 메서드로 서버에 요청을 전송
-        *   요청이 처리되면(서버로부터 응답을 받으면) load 이벤트 발생 → callback 함수 실행
-            *   Callback 함수 실행 시점에 ajax 함수는 이미 반환되어 call stack에서 사라진 상태
+    - ![AJAX 실행 코드의 예시](./images/23-1.png)
+    - XMLHttpRequest 객체 생성 → open( ) 메서드로 요청 준비 → send( ) 메서드로 서버에 요청을 전송
+    - 요청이 처리되면(서버로부터 응답을 받으면) load 이벤트 발생 → callback 함수 실행
+      - Callback 함수 실행 시점에 ajax 함수는 이미 반환되어 call stack에서 사라진 상태
 
 - JSON(JavaScript Object Notation) 포맷
   - 참고자료: [JSON - Wikipedia](https://ko.wikipedia.org/wiki/JSON)
@@ -71,4 +67,3 @@ JavaScript Debugging
       - Step out of current function: Step into next function call로 실행된 함수를 끝까지 실행하고 빠져나와 해당 함수를 실행한 라인으로 돌아감
       - Activate/Deactivate breakpoint: Breakpoint를 활성화, 비활성화함
       - Pause on exception: 예외 발생 시 자동으로 해당 위치에 Breakpoint를 설정
-

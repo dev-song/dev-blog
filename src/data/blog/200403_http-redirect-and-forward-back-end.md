@@ -28,13 +28,11 @@ tags:
 
 - 클라이언트의 요청이 들어왔을 때, 서버가 클라이언트에게 특정 URL로 이동하도록 요청하는 http 프로토콜의 규칙
 - 리다이렉트의 메커니즘
-
-![](./images/26-0.png)
-
-        *   클라이언트가 서버에게 요청을 전송
-        *   서버는 클라이언트에게 302 상태코드와 이동할 URL 정보를 Location 헤더에 담아 응답
-        *   클라이언트는 서버에게 받은 상태코드를 확인하고, 302이면 Location 헤더의 URL 정보로 다시 요청
-            *   이 때 브라우저의 주소창은 새로운 URL로 바뀜
+  - ![](./images/26-0.png)
+    - 클라이언트가 서버에게 요청을 전송
+    - 서버는 클라이언트에게 302 상태코드와 이동할 URL 정보를 Location 헤더에 담아 응답
+    - 클라이언트는 서버에게 받은 상태코드를 확인하고, 302이면 Location 헤더의 URL 정보로 다시 요청
+      - 이 때 브라우저의 주소창은 새로운 URL로 바뀜
 
 - sendRedirect( ): Servlet, JSP에서 리다이렉트할 때 사용하는 메서드로, HttpServletResponse 객체에 속해 있음
 - 리다이렉트의 특징: **클라이언트가 요청을 두 번 전송함**
@@ -49,13 +47,11 @@ tags:
 
 - 클라이언트의 요청이 들어왔을 때, 하나의 Servlet이 아닌 다수의 Servlet에서 백엔드로 처리가 된 후 응답하는 방식
 - 포워드의 메커니즘
-
-![](./images/26-1.png)
-
-        *   클라이언트의 서버의 Servlet1에 요청을 보냄
-        *   Servlet이 요청을 처리한 후 결과를 HttpServletResponse에 저장
-        *   Servlet은 HttpServletRequest와 응답을 위한 HttpServletResponse를 Servlet2에게 포워드
-        *   Servlet2는 받은 HttpServletRequest로 요청을 마저 처리하고 HttpServletResponse에 결과를 담아 클라이언트에게 응답
+  - ![](./images/26-1.png)
+    - 클라이언트의 서버의 Servlet1에 요청을 보냄
+    - Servlet이 요청을 처리한 후 결과를 HttpServletResponse에 저장
+    - Servlet은 HttpServletRequest와 응답을 위한 HttpServletResponse를 Servlet2에게 포워드
+    - Servlet2는 받은 HttpServletRequest로 요청을 마저 처리하고 HttpServletResponse에 결과를 담아 클라이언트에게 응답
 
 - Servlet1과 Servlet2를 통한 포워드 구현 실습
   - Servlet1
@@ -81,11 +77,9 @@ Servlet & JSP 연동
   - JSP는 HTML 출력이 쉬우나, 프로그램 로직을 작성하기가 번거로움
   - Servlet에서 프로그램 로직을 수행하고 JSP에서 결과를 출력하게 하여 개발의 편의성을 높일 수 있음
 - Servlet & JSP 연동 방법
-
-![](./images/26-2.png)
+  - ![](./images/26-2.png)
 
 **※ 게시판의 다양한 기능들과 같이, 여러 URL을 하나의 Servlet으로 연결하는 방법**
 
 - 와일드카드 문자인 \*를 Servlet의 URL mappings에 활용
 - 참고자료: URL Patterns
-
