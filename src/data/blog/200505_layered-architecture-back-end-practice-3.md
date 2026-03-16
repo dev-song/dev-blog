@@ -34,27 +34,23 @@ tags:
 다음으로, GuestbookService 인터페이스를 생성한다.
 
 > 프로젝트 > Java Resources > src/main/java > kr.or.connect.guestbook.service 우클릭  
-> → GuestbookService 인터페이스 생성 (각주 (각주:
->
-> > ![](./images/79.png)
-> > )의 코드 참고)  
-> > → 한 페이지에 보여줄 방명록 건수를 상수 (각주: 변수 선언 시 public static final을 사용하면 상수가 된다.) LIMIT으로 지정  
-> > → 비즈니스 로직을 담당하는 메서드 (각주: 페이지별로 방명록 정보를 읽어오는 getGuestbooks( ) 메서드,  
-> > 특정 id 값을 가진 방명록을 삭제하는 deleteGuestbook( ) 메서드,  
-> > 방명록 정보를 새로 입력하는 addGuestbook( ) 메서드,  
-> > 전체 방명록 건수를 알려주는 getCount( ) 메서드) 선언 (각주: 실제 구현은 인터페이스가 아닌 구현체에서 할 것이므로 선언만 한다.)
+> → GuestbookService 인터페이스 생성
+> ![](./images/79.png)
+> → 한 페이지에 보여줄 방명록 건수를 상수 (각주: 변수 선언 시 public static final을 사용하면 상수가 된다.) LIMIT으로 지정  
+> → 비즈니스 로직을 담당하는 메서드 (각주: 페이지별로 방명록 정보를 읽어오는 getGuestbooks( ) 메서드,  
+> 특정 id 값을 가진 방명록을 삭제하는 deleteGuestbook( ) 메서드,  
+> 방명록 정보를 새로 입력하는 addGuestbook( ) 메서드,  
+> 전체 방명록 건수를 알려주는 getCount( ) 메서드) 선언 (각주: 실제 구현은 인터페이스가 아닌 구현체에서 할 것이므로 선언만 한다.)
 
 인터페이스를 만들었다면 실제로 인터페이스를 구현할 GuestbookServiceImpl 클래스를 생성한다.
 
 > 프로젝트 > Java Resources > src/main/java > kr.or.connect.guestbook.service.impl 우클릭  
-> → GuestbookServiceImpl 클래스 생성 (각주 (각주:
->
-> > ![](./images/79-1.png)
-> > )의 코드 참고)  
-> > → Service Layer로 인식되도록 @Service 입력  
-> > → 이용할 GuestbookDao, LogDao 선언 뒤 @Autowired (각주: Java Bean으로 자동 등록해주는 Annotation이다.) 입력  
-> > → 클래스 뒤 implements (각주: 구현할 인터페이스를 지정하는 키워드이다.) GuestbookService 입력  
-> > → GuestbookService에서 선언한 메서드를 하나씩 구현 (각주: 클래스 선언 라인에서 실행할 수 있는 Add unimplemented methods 기능을 활용하면 간편하게 인터페이스의 메서드를 Override할 수 있다.)
+> → GuestbookServiceImpl 클래스 생성
+> ![](./images/79-1.png)
+> → Service Layer로 인식되도록 @Service 입력  
+> → 이용할 GuestbookDao, LogDao 선언 뒤 @Autowired (각주: Java Bean으로 자동 등록해주는 Annotation이다.) 입력  
+> → 클래스 뒤 implements (각주: 구현할 인터페이스를 지정하는 키워드이다.) GuestbookService 입력  
+> → GuestbookService에서 선언한 메서드를 하나씩 구현 (각주: 클래스 선언 라인에서 실행할 수 있는 Add unimplemented methods 기능을 활용하면 간편하게 인터페이스의 메서드를 Override할 수 있다.)
 
 구현되는 메서드를 하나씩 살펴보자면 다음과 같다.
 
@@ -124,4 +120,3 @@ if 구문을 통해 반드시 중간에 예외가 발생하도록 설정했다.
 생성하다가 오류가 나 데이터가 입력되지 않은 경우, 해당 id는 나중에 다시 쓰이지 않기 때문이다. 그러므로 데이터베이스에서는 특정 id가 빠진 것처럼 보일 수 있다. 순서대로 표시되지 않아도 별다른 문제는 없으니 신경 쓸 필요는 없다.
 
 ---
-

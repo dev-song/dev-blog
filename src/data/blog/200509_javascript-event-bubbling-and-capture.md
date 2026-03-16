@@ -32,9 +32,11 @@ tags:
 
 ## 중첩된 DOM 요소와 이벤트의 작동 방식
 
+![](./images/86.png)
+
 위처럼 여러 DOM 요소가 중첩되고 모든 요소에 이벤트 리스너가 등록되었을 경우, 특정 요소에 이벤트가 실행되면 그 요소에 등록된 이벤트 리스너만 실행되지 않는다. 아래처럼 코드를 입력하고 div.three 요소를 클릭하면 어떻게 될까.
 
-![](./images/86.png)
+![](./images/86-1.png)
 
 상식적으로는 콘솔에 three만 출력되어야하겠지만, 실제로는 three → two → one이 순차적으로 출력된다.
 
@@ -50,7 +52,7 @@ tags:
 
 이벤트 버블링은 하위 요소의 이벤트 리스너부터 실행시킨다. 이벤트 캡처를 활용하면 이 방향을 반대로 바꿀 수 있다. 즉, 상위 요소부터 실행할 수 있다. 아래의 코드를 보자.
 
-![](./images/86-1.png)
+![](./images/86-2.png)
 
 세 번째 인자의 capture 속성을 true로 해서 이벤트 리스너를 등록하면 이벤트 캡처 방식으로 동작한다.
 
@@ -60,7 +62,7 @@ div.three를 클릭하면 one → two → three의 순서로 콘솔에 출력된
 
 이벤트 버블링, 이벤트 캡쳐 둘 다 이벤트가 발생한 요소의 주변으로 '퍼져 나가는' 방식이다. 이를 이벤트 전파라고 한다. 기본 설정은 실행되는 것이지만, 실행을 막는 방법도 있다.
 
-![](./images/86-2.png)
+![](./images/86-3.png)
 
 stopPropagation( ) 메서드 (각주: 참고자료: [Event.stopPropagation() - Web API | MDN](https://developer.mozilla.org/ko/docs/Web/API/Event/stopPropagation))를 사용해 이벤트 전파를 막고 있다. 이렇게 설정하면 이벤트 버블링의 경우 최하위 요소의 이벤트 리스너만, 이벤트 캡쳐의 경우 최상위 요소의 이벤트 리스너만 실행된다.
 
@@ -68,7 +70,7 @@ stopPropagation( ) 메서드 (각주: 참고자료: [Event.stopPropagation() - W
 
 이벤트 전파 방식을 버블링과 캡처로 설정할 수 있듯이, addEventListener의 세 번째 인자를 활용해 이벤트가 단 한 번만 실행되도록 할 수 있다. 아래의 코드를 보자.
 
-![](./images/86-3.png)
+![](./images/86-4.png)
 
 버튼을 처음 클릭했을 때만 콘솔에 First click!이 출력된다. 첫 번째 클릭 이후 removeEventListener( ) 메서드를 사용해 이벤트 리스너를 해제해주는 것과 동일한 효과이며, 더 간단하다.
 
@@ -77,4 +79,3 @@ stopPropagation( ) 메서드 (각주: 참고자료: [Event.stopPropagation() - W
 [GitHub 저장소 링크](https://github.com/dev-song/_home/tree/master/projects/JavaScript30/Day%2025/tutorial-Event-Capture-Propagation-Bubbling-and-Once)
 
 ---
-

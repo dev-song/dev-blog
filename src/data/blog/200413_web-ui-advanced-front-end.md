@@ -123,4 +123,3 @@ HTML Templating 실습
 - **※ ES6의 기능인 Template Literal을 활용하면 .replace( ) 메서드를 이용하지 않고도 템플릿의 내용을 바꿀 수 있음**
   - 예시 코드
     - ![](./images/44-5.png)
-
